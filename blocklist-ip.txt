@@ -1,0 +1,4 @@
+# my_external_feed - IP blocklist for FortiGate
+# One entry per line: single IP, CIDR, or range
+# Example placeholder below (TEST-NET-1, safe to replace)
+192.0.2.1
