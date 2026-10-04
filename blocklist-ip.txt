@@ -2,7 +2,4 @@
 # One entry per line: single IP, CIDR, or range
 # Example placeholder below (TEST-NET-1, safe to replace)
 192.0.2.1
-45.74.28.153
-45.74.28.11
-45.74.28.152
-45.74.28.10
+45.74.28.0/24
