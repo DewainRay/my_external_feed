@@ -346,3 +346,5 @@
 58.26.107.83
 58.27.52.161
 1.9.91.206
+# threatmap approved 2026-11-12 (1 IPs: IPS/login evidence on >= 1 sites)
+195.178.110.22
