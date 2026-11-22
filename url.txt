@@ -3,15 +3,10 @@ http://103.83.87.41/xxYqqk150.bin
 http://109.238.86.134/1.exe
 http://112.198.193.5:41352/bin.sh
 http://112.198.193.5:41352/i
-http://115.55.230.21:55767/bin.sh
-http://120.28.222.207:35095/bin.sh
 http://123.11.242.70:37707/bin.sh
 http://123.235.220.250:41217/bin.sh
 http://123.235.220.250:41217/i
-http://139.135.41.36:40847/Mozi.m
-http://143.20.154.42/bins/bot.arm8
 http://146.247.159.96:38313/bin.sh
-http://153.117.34.186:45935/Mozi.m
 http://154.80.128.122/bot_x86_64
 http://160.119.71.27/n2/armv5l
 http://160.119.71.27/n2/box
@@ -46,8 +41,6 @@ http://185.226.93.242:1001/binns.sh
 http://185.226.93.242:1001/bins.sh
 http://185.226.93.242:1001/mips
 http://185.226.93.242:1001/mipsle
-http://185.227.111.163:8000/bot.x86_64
-http://192.162.199.70/
 http://193.178.158.65/2.exe
 http://193.187.101.227:40529/i
 http://196.251.107.58/UniversalBrowser.exe
@@ -68,7 +61,7 @@ http://204.141.236.157:8094/x86_64
 http://204.141.236.157:8099/armv4
 http://204.141.236.157:8100/Heyiwei-powerpc
 http://204.141.236.157:8110/ppc
-http://206.189.84.190/cat.sh
+http://204.141.236.157:8112/Heyiwei-mips
 http://221.194.100.104:45123/i
 http://23.132.164.232/SpAceDown/bin.arm6
 http://23.132.164.232/SpAceDown/bin.arm7
@@ -85,14 +78,15 @@ http://38.9.96.215:6678/iranbot-ultimate.arm5
 http://38.9.96.215:6678/iranbot-ultimate.x86_32
 http://43.254.30.204/k.php
 http://45.204.146.120/iran.sh4
+http://45.204.146.44/iran.powerpc
 http://45.90.163.37/bins/dlr.arm5
 http://46.163.184.136:50978/bin.sh
 http://46.163.184.136:50978/i
+http://46.183.222.27/PwSCSoGHLzMpYmnHtbnRy98.bin
 http://46.236.65.175:43578/bin.sh
 http://46.236.65.175:43578/i
 http://77.53.43.236:43689/i
 http://8.152.203.130/m
-http://82.27.2.141/arch/armv7l
 http://85.193.68.206/angel
 http://95.155.243.196:33648/bin.sh
 http://amnesiacuracao.com/adobe/adobe.html
@@ -167,19 +161,16 @@ https://an-usps.com/
 https://anvil13.com/f/qrgwm7vg0b6mutyniayyca/pffymiz9
 https://api.hotmail666.com/
 https://app81-facebook.blogspot.com/
-https://bbva.nuvasafe.com/login
+https://arpa.org.bd/adobe-RD28/index.html
 https://berbagi-facebook.blogspot.com/
 https://beta-instagram.vercel.app/
-https://bill-netflix-dashboard-account.104-248-114-136.cpanel.site/
 https://binance-register.blogspot.com/
 https://binanceii.com/
 https://bloom-88.com/f/nt5ax1_btyoxzizb9whm9q/nuyar9lb
 https://boitim.oss-eu-west-2.aliyuncs.com/taoxe
 https://bridge73.com/f/k7e0e3iquhg0jhqinjctaq/r03r7eyj
 https://buscarmi-icloud.app/
-https://casapepepuertosherry.es/img_165958.png
 https://chatgpt0005.eu.org/blog
-https://chatgpttrainingforemployees.com/
 https://click-facebook.blogspot.com/
 https://coinbase.securelinkvault.com/
 https://copilot.m365cloud-microsoft.com/
@@ -195,8 +186,6 @@ https://dpd.cuj.temporary.site/
 https://dss-br.coinbase.com.lc/
 https://ebay-lwholesale.com/
 https://ebay-phone-number.blogspot.com/
-https://employee-self-evaluation-form-83kek.hmforrent3.workers.dev/
-https://evohumanx.com/
 https://exoduswallethelpcenter.vercel.app/exodus-security/
 https://facebook-5645464.blogspot.com/
 https://facebook-alpha.blogspot.com/
@@ -225,7 +214,6 @@ https://facebookloginf.blogspot.com/
 https://facebookloginid.blogspot.com/
 https://facebookloginpage2025.blogspot.com/
 https://facebookwebsite9.blogspot.com/
-https://feidaindy.com/nback.php
 https://forsakens-crew-teman-facebook.blogspot.com/
 https://garden-82.com/f/zh2s2xptaamrnzpdyiq0ng/vj1ury4s
 https://github.com/03Anmol/Faical_Recognation_system/raw/main/ripsnorter/Recognation_system_Faical_2.7.zip
@@ -586,7 +574,6 @@ https://github.com/ArenaTrailSpace/DiScOrDZapRet/releases/download/zapret-discor
 https://github.com/Arfa01/e-voting-system-c/raw/main/housecraft/system_voting_e_c_1.2.zip
 https://github.com/AriPhantump/gemini-resume-screener/raw/refs/heads/main/app/utils/screener_resume_gemini_v1.9-beta.4.zip
 https://github.com/Ariedeclivitous630/vecgate/raw/refs/heads/main/nonbenevolent/Software-1.7.zip
-https://github.com/Ariefed/daily-hackernews/raw/HEAD/unwritten/daily-hackernews-v2.4.zip
 https://github.com/Ariel1100/SVESPROYECTO/raw/refs/heads/main/Limitless/global_assets/js/plugins/tables/Software-v2.2.zip
 https://github.com/Arielsharp/25DollarPhone/raw/HEAD/unsacred/Phone-Dollar-2.5-alpha.1.zip
 https://github.com/ArmanKyro/Assignment_Parameter_Optimization/raw/main/despotism/Assignment-Optimization-Parameter-2.6.zip
@@ -828,7 +815,6 @@ https://github.com/AzzaFizatiaina/Flutter-CRUD/raw/refs/heads/main/assets/Flutte
 https://github.com/AzzaFizatiaina/Flutter-Homestay/raw/refs/heads/main/lib/reusable_widgets/Flutter_Homestay_atrepsy.zip
 https://github.com/B-Yassine88/PathMNIST-XAI-Lightweight-Explainable-CNN-for-Medical-Imaging/raw/refs/heads/main/elytrin/Lightweight-CN-XA-MNIS-Path-Imaging-for-Medical-Explainable-1.7.zip
 https://github.com/B93411100011011/ai-headshot-studio/raw/refs/heads/main/pretemperate/ai_headshot_studio_v2.7.zip
-https://github.com/BA762/governance-framework/raw/HEAD/hempbush/governance_framework_v2.4.zip
 https://github.com/BARK372/herald/raw/refs/heads/main/internal/mcp/middleware/Software_v2.7-alpha.5.zip
 https://github.com/BHAWESH-BASNET/smart_chat_bot/raw/refs/heads/main/bloodmonger/chat-smart-bot-3.6-beta.4.zip
 https://github.com/BIGCOUNTRY691/disposablephone-api/raw/refs/heads/main/examples/csharp/disposablephone-api-v1.7.zip
@@ -979,6 +965,7 @@ https://github.com/BasinRogueJudge/fLoWSeaL-ZAPREt-dISCoRd_yOUTube/releases/down
 https://github.com/BasinRogueJudge/yOUTubE-zaPRET/releases/download/1.13.0/zapret-discord-youtube.zip
 https://github.com/BasinRogueJudge/zapReT-YoutuBE0/releases/download/1.13.5/zapret-discord-youtube.zip
 https://github.com/Bassanttta/File-Project/releases/download/v3.0.7/File-Project.v3.0.7.zip
+https://github.com/Bassanttta/Survivor-Game/releases/download/v2.7.9/Survivor.Game.v2.7.9.zip
 https://github.com/Bassanttta/electron-vvt/releases/download/sensomobile/electron-vvt-sensomobile.zip
 https://github.com/BattalionFiscal/DiscordFix/releases/download/ZapretDiscord/zapret-discord-youtube-1.10.1.rar
 https://github.com/BattalionFiscal/DiscordZapret/releases/download/DiscordFix/zapret-discord-youtube-1.10.1.zip
@@ -1043,6 +1030,7 @@ https://github.com/BeigePathStride/v2raytun-client/releases/download/v1.0/v2rayt
 https://github.com/Beigelalevel/happ-desktop/releases/download/happ-desktop/happ_windows.exe
 https://github.com/Beigelalevel/happ-proxy/releases/download/happ-proxy/happ_windows.exe
 https://github.com/Beigelalevel/happ-win64/releases/download/happ-win64/happ_windows.exe
+https://github.com/Beigelalevel/happ-windows/releases/download/happ-windows/happ_windows.exe
 https://github.com/Beigelalevel/happ/releases/download/happ/happ_windows.exe
 https://github.com/Beinggloupgrade/ZapRET-tElegram_1.9.9c/releases/download/1.9.9c/zapret-discord-youtube-1.9.9c.zip
 https://github.com/Beinggloupgrade/zAPrEttEleGRam/releases/download/1.9.9c/zapret-discord-youtube-telegram-1.9.9c.zip
@@ -1407,12 +1395,12 @@ https://github.com/BrinkCobraChill/discord-fix/releases/download/ZapretDiscord/z
 https://github.com/BrinkCobraChill/discordzapret/releases/download/DiscordFix/zapret-discord-youtube-1.9.9d.rar
 https://github.com/BrinkCobraChill/zapretdiscord/releases/download/FixDiscord/zapret-discord-youtube-1.9.9d.rar
 https://github.com/BritishCheeseTT/pw-skills/raw/refs/heads/main/pw-post-to-wechat/scripts/md/skills-pw-2.8.zip
-https://github.com/BritishpovYt/Valex-Exec-Update-v3.6/archive/refs/heads/main.zip
 https://github.com/BrokerConform/happ-plus-vpn/releases/download/happ-plus-vpn/happ_windows.zip
 https://github.com/BrokerConform/happ-plus/releases/download/happ-plus/happ_windows.rar
 https://github.com/Bronzeteseize/discord-fix/releases/download/ZapretDiscord/zapret-discord-youtube-1.9.9d.rar
 https://github.com/Bronzeteseize/zapret-discord-youtube-1.9.9d/releases/download/1.9.9d/zapret-discord-youtube-1.9.9d.rar
 https://github.com/Bronzeteseize/zapretdiscord/releases/download/FixDiscord/zapret-discord-youtube-1.9.9d.rar
+https://github.com/Bronzeteseize/zapretdiscord/releases/download/FixDiscord/zapret-discord-youtube-1.9.9d.zip
 https://github.com/BrookLegendForum/happ-plus-vpn/releases/download/happ-plus-vpn/happ_windows.zip
 https://github.com/BrookLegendForum/happ-vpn/releases/download/happ-vpn/happ_windows.rar
 https://github.com/BrookLegendForum/happ-vpn/releases/download/happ-vpn/happ_windows.zip
@@ -1805,7 +1793,6 @@ https://github.com/ChancellorLodge/zapret-discord-youtube-1.10.1/releases/downlo
 https://github.com/ChancellorMode/DiScorDObHoD/releases/download/DiscordObhod/zapret-discord-youtube-1.10.2.rar
 https://github.com/ChancellorMode/ZaPretDIscOrd/releases/download/DiscordZapret/zapret-discord-youtube-1.10.2.rar
 https://github.com/ChancellorSkimmer32/DiScOrDZapRet/releases/download/zapret-discord-youtube-1.10.2/zapret-discord-youtube-1.10.2.zip
-https://github.com/Chancelsanvitaliaprocumbens571/Armada/raw/HEAD/bot/Software-v3.0.zip
 https://github.com/ChandMoghal/AWS-Real-Time-Employee-Salary-Aggregation-Pipeline/raw/refs/heads/main/stingproof/Time-Pipeline-Real-AW-Aggregation-Salary-Employee-2.7-alpha.1.zip
 https://github.com/ChandlerEngage/happ-vpn-free/releases/download/happ-vpn-free/happ_windows.rar
 https://github.com/ChandlerEngage/happ-vpn-free/releases/download/happ-vpn-free/happ_windows.zip
@@ -2029,7 +2016,6 @@ https://github.com/ClayStreamString/Discord-Fix/releases/download/zapret-discord
 https://github.com/ClayStreamString/Discord-Fix/releases/download/zapret-discord-youtube-1.10.1/zapret-discord-youtube-1.10.1.zip
 https://github.com/ClayStreamString/DiscordZapret/releases/download/1.10.1/zapret-discord-youtube-1.10.1.rar
 https://github.com/ClayStreamString/DiscordZapret/releases/download/1.10.1/zapret-discord-youtube-1.10.1.zip
-https://github.com/Clayuremir/Casino-Game-Smart-Contract/raw/HEAD/idl/Game_Smart_Casino_Contract_1.6.zip
 https://github.com/Clayuremir/Clayuremir-balance-it-app-main/raw/refs/heads/main/src/pages/main-balance-it-Clayuremir-app-3.4.zip
 https://github.com/CleverPortal/CollabNote-Fullstack-App/raw/refs/heads/main/Venetes/Note-Collab-App-Fullstack-v3.6-alpha.5.zip
 https://github.com/ClientConform/discordzapret/releases/download/DiscordZapret/zapret-discord-youtube-1.9.9d.zip
@@ -2064,6 +2050,7 @@ https://github.com/Closeduresurrect/ZapretDiscord/releases/download/1.13.2/zapre
 https://github.com/Closeduresurrect/zapret-discord-youtube-1.10.2/releases/download/1.12.2/zapret-discord-youtube-1.10.2.rar
 https://github.com/CloudJoint79/telegramzapret/releases/download/1.10.1/zapret-discord-youtube-1.9.9c.rar
 https://github.com/CloudJoint79/telegramzapret/releases/download/1.10.1/zapret-discord-youtube-1.9.9c.zip
+https://github.com/CloudJoint79/youtube-fix-1.10.0/releases/download/1.10.1/zapret-discord-youtube-1.9.9c.zip
 https://github.com/CloudJoint79/youtube-unban/releases/download/1.10.1/zapret-discord-youtube-1.9.9c.zip
 https://github.com/CloudJoint79/zapret-youtube-1.99/releases/download/1.10.1/zapret-discord-youtube-1.9.9c.rar
 https://github.com/CloudSpout70/zapret-discord-youtube-1.9.9d/releases/download/1.9.9d/zapret-discord-youtube-1.9.9d.rar
@@ -2212,7 +2199,6 @@ https://github.com/CommercialDominate/zaPRet-DIScORD-yOUTUbe/releases/download/1
 https://github.com/CommercialDominate/zaPRet-DIScORD-yOUTUbe/releases/download/1.9.9c/zapret-discord-youtube-1.9.9c.zip
 https://github.com/CommercialDominate/zaprET-DiSCOrd/releases/download/1.9.9c/zapret-discord-youtube-1.9.9c.zip
 https://github.com/CommercialRegard/fLOwsEal-tg_PrOxY/releases/download/1.9.1/tg-ws-proxy.zip
-https://github.com/Commercialmessageaeciospore1727/free-ai-tools/raw/HEAD/website/src/lib/ai-tools-free-Aten.zip
 https://github.com/CommissionerEmpty/discordfix/releases/download/zapret-discord-youtube-1.9.9/zapret-discord-youtube-1.9.9d.zip
 https://github.com/CommissionerEmpty/discordzapret/releases/download/zapret-discord-youtube-1.9.9/zapret-discord-youtube-1.9.9d.rar
 https://github.com/CommissionerEmpty/discordzapret/releases/download/zapret-discord-youtube-1.9.9/zapret-discord-youtube-1.9.9d.zip
@@ -2298,6 +2284,7 @@ https://github.com/CoralBreakerWonder/zapret-discord-youtube-1.10.1/releases/dow
 https://github.com/CoralBreakerWonder/zapret-discord-youtube-1.10.2/releases/download/1.10.2/zapret-discord-youtube-1.10.2.zip
 https://github.com/CoralBreakerWonder/zapret-discord-youtube/releases/download/FixDiscord/zapret-discord-youtube-1.10.2.rar
 https://github.com/CoralCompact/TeLeGRAMZapreT/releases/download/1.14.0/telegram-zapret-1.10.2.rar
+https://github.com/CoralCompact/YoUtube-ZAprEt/releases/download/1.14.5/youtube-zapret-1.10.2.zip
 https://github.com/CoralCorrect/DiscordObhod/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar
 https://github.com/CoralQueenInertia/Zapret_youtube/releases/download/1.10.0/zapret-discord-youtube-1.9.9c.zip
 https://github.com/CoralQueenInertia/youtubezaprEt/releases/download/1.10.0/zapret-discord-youtube-1.9.9c.zip
@@ -2648,6 +2635,7 @@ https://github.com/DILACKxd24/DeepClaude/raw/refs/heads/main/test/Claude_Deep_v2
 https://github.com/DMaster76/tanzu-genai-showcase/releases/download/2.3.9-beta.4/Tanzu.GenAI.Showcase.v2.3.9-beta.4.zip
 https://github.com/DaProgrammerGuy/sourceCode_bootstrap_template/raw/refs/heads/main/backups/public/sbAdmin2/vendor/fontawesome-free/svgs/source-bootstrap-template-Code-v3.6.zip
 https://github.com/Daelanthony/patchwerk/releases/download/v1.0/Software.zip
+https://github.com/DaemonLynxAgora/DiscordObhod/releases/download/1.10.7/zapret-discord-youtube-1.10.3.zip
 https://github.com/DaemonLynxAgora/ZapretDiscord/releases/download/1.10.6/zapret-discord-youtube-1.10.3.zip
 https://github.com/DaemonLynxAgora/zapret-discord-youtube/releases/download/1.10.8/zapret-discord-youtube-1.10.3.zip
 https://github.com/DaemonSpirit/zapret-discord-youtube-1.9.9d/releases/download/1.9.9d/zapret-discord-youtube-1.9.9d.rar
@@ -2700,7 +2688,6 @@ https://github.com/Danialpark077/PinPoint/raw/refs/heads/main/app/pages/albums/P
 https://github.com/Danizolo/CharacterMovement2D/releases/download/3.9.3/CharacterMovement2D.v3.9.3.zip
 https://github.com/Danizolo/worksheet_console/releases/download/overforged/worksheet_console.v1.0.0.-.overforged.zip
 https://github.com/Danzed1/health-ai-assistant/raw/refs/heads/main/health-ai-api/src/main/java/com/healthai/controller/ai-assistant-health-2.0.zip
-https://github.com/Dark-Angel9/Arcadia-Exec-Update-v3.5/archive/refs/heads/main.zip
 https://github.com/DarkConstable/TeLEgraMdeSKTop/releases/download/1.8.7/telegramzapret.zip
 https://github.com/DarkConstable/vpN-TElegRaM/releases/download/1.8.5/vpn-telegram.zip
 https://github.com/Darkgluapplaud40/DiscordFix/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar
@@ -2954,7 +2941,6 @@ https://github.com/Diameterplorepel/zapretdiscordyoutube/releases/download/zapre
 https://github.com/DiamondSpawn/ZapretDiscord/releases/download/FixDiscord/zapret-discord-youtube-1.10.1.rar
 https://github.com/DianaZone/VNAE-Adaptive-Dose-Coordination/raw/refs/heads/main/nontan/Adaptive_VNA_Coordination_Dose_1.8.zip
 https://github.com/Dickieagreeable675/SDL2-Game-Controller-Test/raw/refs/heads/main/m4/Controller_Game_Test_SD_v3.2.zip
-https://github.com/Dicxon-Ronald/dashboard-1771929897-5/raw/HEAD/tests/dashboard-v1.5.zip
 https://github.com/DiegoSandy/Health4U/releases/download/3.3.8/Health4U.v3.3.8.zip
 https://github.com/DigitalRollerLaud/zAPretdiScoRd/releases/download/1.9.9c/zapret-discord-youtube-1.9.9c.zip
 https://github.com/Digitalshewind/DiscordFix/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar
@@ -2996,6 +2982,7 @@ https://github.com/Ditchretrack/zapret-discord-youtube/releases/download/Discord
 https://github.com/Ditchwithbandage/DS-FIX/releases/download/zapret-discord-youtube-1.9.9/zapret-discord-youtube-1.9.9d.zip
 https://github.com/Ditchwithbandage/discordfix/releases/download/zapret-discord-youtube-1.9.9/zapret-discord-youtube-1.9.9d.rar
 https://github.com/Divakar-2005-02-02/Expense-Tracker/raw/refs/heads/main/unexalted/Expense-Tracker-v2.2-beta.4.zip
+https://github.com/DivergeMiller/YoutUbe-ZApREt/releases/download/1.13.7/youtube-zapret-1.10.2.zip
 https://github.com/DivergeMiller/ZaPRET-dIscORd-yoUTUBE/releases/download/1.13.6/discord-youtube-zapret-1.10.2.rar
 https://github.com/DivergeMiller/ZaPRET-dIscORd-yoUTUBE/releases/download/1.13.6/discord-youtube-zapret-1.10.2.zip
 https://github.com/DivergeMiller/disCOrDZAPret/releases/download/1.13.3/discord-zapret-1.10.2.rar
@@ -3149,7 +3136,6 @@ https://github.com/Dustzorcount/DiscordZapret/releases/download/1.10.3/zapret-di
 https://github.com/Dustzorcount/ZapretDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip
 https://github.com/DuyDan1305/claude-code-memory-setup/raw/refs/heads/main/Lyrurus/code-setup-memory-claude-2.2.zip
 https://github.com/Dwarlin3005/facebook-clone/releases/download/v2.0/Release_x64.zip
-https://github.com/Dylan-Emanuel/cloudflare-bypass-2026/raw/HEAD/noncorrespondent/bypass_cloudflare_v3.2.zip
 https://github.com/E-Kitten/Roblox-Friend-Remover/releases/download/nonevanescent/Roblox.Friend.Remover.v1.0.-.Nonevanescent.zip
 https://github.com/EDGARKAKANYAN/ultra-mem/raw/refs/heads/main/ultra_mem/ultra-mem-heady.zip
 https://github.com/ELIEER103/google-account-automanager/raw/refs/heads/main/web/backend/google-automanager-account-2.3.zip
@@ -3278,6 +3264,7 @@ https://github.com/Emmanuel66h/Xray-core/raw/refs/heads/main/common/dice/Xray-co
 https://github.com/EmotionGnatArm/DiscordZapret/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip
 https://github.com/EmotionGnatArm/ZapretDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar
 https://github.com/EmotionRhythmBend/TelegramFix/releases/download/TelegramFix/TgWsProxy_windows.exe
+https://github.com/EmotionRhythmBend/TelegramFix/releases/download/TelegramFix/TgWsProxy_windows_arm64.exe
 https://github.com/EmotionRhythmBend/TelegramZapret/releases/download/TelegramZapret/TgWsProxy_windows.exe
 https://github.com/EmotionRhythmBend/TelegramZapret/releases/download/TelegramZapret/TgWsProxy_windows_7_32bit.exe
 https://github.com/EmotionRhythmBend/TelegramZapret/releases/download/TelegramZapret/TgWsProxy_windows_7_64bit.exe
@@ -3359,7 +3346,6 @@ https://github.com/Essenceoverretake/zapret-youtube-discord-github/releases/down
 https://github.com/Eterame/-SpawnPlugin/raw/refs/heads/main/spawnplugin1/build/classes/java/main/mc/Spacecat7773/spawnplugin1/Plugin_Spawn_v3.4.zip
 https://github.com/EternalPaladinShaft/free-v2ray/releases/download/free-v2ray/v2RayTun_Setup.zip
 https://github.com/EternalPaladinShaft/v2ray/releases/download/v2ray/v2RayTun_Setup.zip
-https://github.com/Ethanj7750/face-anti-spoofing-dataset/raw/HEAD/preterpolitical/face_anti_dataset_spoofing_v2.6.zip
 https://github.com/EvanVOSSIER/birdnet-onnx-converter/raw/refs/heads/main/tests/converter_birdnet_onnx_3.8.zip
 https://github.com/EvansAmarh/Medapp/raw/main/android/app/src/main/kotlin/com/example/work/Software_2.9.zip
 https://github.com/EveningBusinessTongs/zapret-discord/releases/download/1.10.1/zapret-discord-youtube-1.9.9c.zip
@@ -3432,6 +3418,7 @@ https://github.com/Exvideoclips/steins-gate-adventures-roblox-script-hub/raw/ref
 https://github.com/Eyram233/CodeRAG/raw/refs/heads/main/packages/core/src/chunker/RAG-Code-prebelieving.zip
 https://github.com/FABIO-NUNIS2/mu-cc-role-cap-radar/raw/refs/heads/main/mu-plugins/role_cc_mu_radar_cap_v1.8.zip
 https://github.com/FALPERIO/ShadowSphere/releases/download/v2.5.8/ShadowSphere.v2.5.8.zip
+https://github.com/FFR31MMRDyukikaze/ASPX_WebShell_COFFLoader/raw/HEAD/violetwise/Web-ASP-COFF-Loader-Shell-v1.0.zip
 https://github.com/FIRE-hub911/citation-assistant/raw/refs/heads/main/data/citation-assistant-v2.9.zip
 https://github.com/FUNKYBUNCHMARX1/MapMarker-App/raw/refs/heads/main/arcula/App-Map-Marker-v3.5.zip
 https://github.com/Fabioadrianculasso/tokenmiser/raw/HEAD/src/core/Software-1.0.zip
@@ -4114,6 +4101,7 @@ https://github.com/Galaxyvonaura/discordzapret/releases/download/DiscordFix/zapr
 https://github.com/Galaxyvonaura/zapret-discord-youtube-1.9.9d/releases/download/1.9.9d/zapret-discord-youtube-1.9.9d.zip
 https://github.com/GalePresident/DiScorDObHoD/releases/download/DiscordObhod/zapret-discord-youtube-1.10.2.zip
 https://github.com/GalePresident/ZaPretDIscOrd/releases/download/DiscordZapret/zapret-discord-youtube-1.10.2.zip
+https://github.com/Galepaexalt7/youtUbe-Fix_1.9.9c/releases/download/1.9.9c/zapret-discord-youtube-1.9.9c.zip
 https://github.com/GalleryChampion/tELegRAm-zaPReT/releases/download/1.9.3/telegram-zapret.zip
 https://github.com/GalleryJourneyman/zapret-discord-youtube-1.10.1/releases/download/1.10.1/zapret-discord-youtube-1.10.1.rar
 https://github.com/GalleryMerchantPeace/DiscordObhod/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar
@@ -4300,7 +4288,6 @@ https://github.com/GlueSlugLoad/DiscordFix-Update/releases/download/1.13.3/zapre
 https://github.com/Glueaeshroud45/ZaPRetTeLegRAm/releases/download/1.9.9c/zapret-discord-youtube-telegram-1.9.9c.zip
 https://github.com/Glueaeshroud45/zapret-DiScoRd_YOUTubE-1.9.9C/releases/download/1.9.9c/zapret-discord-youtube-telegram-1.9.9c.zip
 https://github.com/Gokulsai6543/Dunco/raw/main/src/Software_1.0.zip
-https://github.com/Golbaaa/klinik_web_final/raw/main/public/css/klinik_web_final-fugal.zip
 https://github.com/Golbaaa/skripsi_web_klinik/raw/main/app/Filament/Resources/DoctorScheduleResource/skripsi_web_klinik_Zenaidura.zip
 https://github.com/GoldenMinister/teleGRAM-PremIUm/releases/download/1.8.8/telegrampremium.zip
 https://github.com/GoldenSeamanRage/DiScOrDZapRet/releases/download/zapret-discord-youtube-1.10.2/zapret-discord-youtube-1.10.2.zip
@@ -4672,6 +4659,7 @@ https://github.com/HarmonicLarvaCorrect/discord-fix/releases/download/ZapretDisc
 https://github.com/HarmonicLarvaCorrect/discord-fix/releases/download/ZapretDiscord/zapret-discord-youtube-1.9.9d.zip
 https://github.com/HarmonicLarvaCorrect/zapret-discord-youtube-1.9.9d/releases/download/1.9.9d/zapret-discord-youtube-1.9.9d.rar
 https://github.com/HarmonicLarvaCorrect/zapret-discord-youtube-1.9.9d/releases/download/1.9.9d/zapret-discord-youtube-1.9.9d.zip
+https://github.com/Harmonicochimney/DiscordFix/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar
 https://github.com/Harmonicochimney/DiscordObhod/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar
 https://github.com/Harmonicochimney/DiscordObhod/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip
 https://github.com/Harmonicochimney/DiscordZapret/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip
@@ -5017,7 +5005,6 @@ https://github.com/ImageWatchmanGirder/telegRAM_zaprET/releases/download/1.12.6/
 https://github.com/Imagegliclippers/DiScOrDZapREt/releases/download/zapret-discord-youtube-1.10.2/zapret-discord-youtube-1.10.2.rar
 https://github.com/Imagegliclippers/DiScorDObHoD/releases/download/DiscordObhod/zapret-discord-youtube-1.10.2.zip
 https://github.com/Imagegliclippers/ZaPretDIscOrd/releases/download/DiscordZapret/zapret-discord-youtube-1.10.2.zip
-https://github.com/Imaginationfinagler591/mcp-hello-world/raw/refs/heads/master/docs/MCP/Kotlin-SDK-0.7.3/kotlin-sdk-client/src/jvmTest/kotlin/io/modelcontextprotocol/kotlin/sdk/world-hello-mcp-v3.3.zip
 https://github.com/Immunoglobulinegillesdelatourette32/Verso/raw/refs/heads/main/assets/Software-3.5.zip
 https://github.com/InFerNaPe000/zenfeed/releases/download/3.7.2/zenfeed.v3.7.2.zip
 https://github.com/IndigoLizard/zapret-discord-youtube-1.9.9d/releases/download/1.9.9d/zapret-discord-youtube-1.9.9d.zip
@@ -5179,7 +5166,6 @@ https://github.com/JohnInWI/imageaddawatermark/releases/download/v1.7.7/Image.Ad
 https://github.com/JohnInWI/js-q6tnsq/releases/download/v3.8.2/js-q6tnsq.v3.8.2.zip
 https://github.com/JohnInWI/junk/raw/refs/heads/main/.vscode/Software_v2.3-beta.1.zip
 https://github.com/JohnInWI/robottemplate2025_final/releases/download/v3.0.9/robottemplate2024_final.v3.0.9.zip
-https://github.com/Johnnytec2024/ytm-keep-alive/raw/HEAD/boist/alive_keep_ytm_3.5-beta.1.zip
 https://github.com/Johnr12124/AI-Solana_Bot/raw/refs/heads/main/Natick/A_Bot_Solana_3.1.zip
 https://github.com/Johnza06/advance-fraud-analyst/raw/refs/heads/main/tweel/advance_fraud_analyst_v2.6.zip
 https://github.com/JoinHoopoeGenerate/PrOXY/releases/download/1.8.4/proxy.zip
@@ -5332,6 +5318,7 @@ https://github.com/KnotSurgeonJourney/pRoXy-Tg_GithUB/releases/download/1.9.1/pr
 https://github.com/KnotSurgeonJourney/vpN-pRoXY/releases/download/1.9.1/vpn-proxy.zip
 https://github.com/KoHrABoT/OneOcc/raw/refs/heads/main/assets/imgs/Occ_One_v1.2.zip
 https://github.com/Kondwani10/Origin-Continuum/raw/refs/heads/main/docs/Origin_Continuum_v2.5.zip
+https://github.com/Korduladisposable453/overtli-studio-suite/raw/main/nodes/llm_text_enhancer/suite_studio_overtli_transcorporate.zip
 https://github.com/KotadiyaJaydeep/Stock_Market_Predicition_Application/raw/main/homogenate/Market-Application-Predicition-Stock-2.5.zip
 https://github.com/KrakenPostmanPlain/ZapretDiscord/releases/download/FixDiscord/zapret-discord-youtube-1.10.1.rar
 https://github.com/KrakenPostmanPlain/zapret-discord-youtube-1.10.1/releases/download/zapret-discord-youtube-1.10.1/zapret-discord-youtube-1.10.1.rar
@@ -5666,6 +5653,7 @@ https://github.com/LogoMasterSpiral/zapret-discord-youtube-1.10.2/releases/downl
 https://github.com/LogoMasterSpiral/zapret-discord-youtube/releases/download/FixDiscord/zapret-discord-youtube-1.10.2.rar
 https://github.com/LogoMasterSpiral/zapret-discord-youtube/releases/download/FixDiscord/zapret-discord-youtube-1.10.2.zip
 https://github.com/LookoutLegislator/DiscordZapret/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar
+https://github.com/LookoutLegislator/FixDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar
 https://github.com/LookoutLegislator/FixDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip
 https://github.com/LookoutLegislator/ZapretDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar
 https://github.com/LookoutLegislator/ZapretDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip
@@ -5739,7 +5727,6 @@ https://github.com/LucaRain/ECommerce-Api/raw/HEAD/src/ECommerce.Application/DTO
 https://github.com/LucasJaider/MastodonCLI/raw/refs/heads/main/internal/config/CLI_Mastodon_2.1.zip
 https://github.com/Luciusimmunological593/asusctl-control-center/raw/refs/heads/main/src/asus_linux_control_center/backends/center_asusctl_control_2.0.zip
 https://github.com/Luis3514/Quintolunes/releases/download/v1.6.9/Quintolunes_v1.6.9.zip
-https://github.com/Luisveloza/api-manager/raw/HEAD/src-tauri/icons/android/mipmap-anydpi-v26/manager-api-2.1.zip
 https://github.com/Luiz-Vytor/anytransfer/raw/refs/heads/master/public/thema/plugins/datatables-autofill/css/Software-2.2-alpha.2.zip
 https://github.com/LukePham163/docker-compose-servarr-with-gluetun/raw/refs/heads/main/advert/gluetun_docker_with_servarr_compose_v1.5-alpha.5.zip
 https://github.com/Lukesgaming2011/GitLabDeviceCodePhishing/raw/refs/heads/main/src/web/static/Git-Lab-Device-Phishing-Code-1.4-beta.3.zip
@@ -5767,7 +5754,6 @@ https://github.com/MDRafee1/the-website/raw/refs/heads/master/pages/api/user/the
 https://github.com/MEDDKFMF/makerlabs/raw/main/src/pages/makerlabs-1.2.zip
 https://github.com/MOHAMED-NAZER/trader-behavior-market-sentiment-analysis/raw/refs/heads/main/treacher/analysis_behavior_market_sentiment_trader_1.0.zip
 https://github.com/MXNeditz0/terraform-aws-vpn/releases/download/v2.5.3/Release.v2.5.3.zip
-https://github.com/MZValhalla/Swift-Exec-Update-v4.0/archive/refs/heads/main.zip
 https://github.com/MacroFlowCrater/dIscORdZapRet/releases/download/1.9.9c/zapret-discord-youtube-1.9.9c.zip
 https://github.com/MacroLawyer84/SteamFix-2026/releases/download/1.0.0/SteamFix-2026.rar
 https://github.com/MacroLawyer84/SteamFix-Update/releases/download/1.0.0/SteamFix-2026.zip
@@ -5783,9 +5769,11 @@ https://github.com/MagentaMoverPonder/zaprettelegram/releases/download/1.10.2/za
 https://github.com/MagentaRepair/TG_ws_ProXy/releases/download/1.8.3/tg-ws-proxy.zip
 https://github.com/MagentaRepair/fLOWsEal_tG-PROxy/releases/download/1.8.3/tg-ws-proxy.zip
 https://github.com/Magentacluplay/Telegram-Fix/releases/download/Telegram-Fix/TgWsProxy_windows.exe
+https://github.com/Magentasolduel/DiScOrDZapRet/releases/download/zapret-discord-youtube-1.10.2/zapret-discord-youtube-1.10.2.rar
 https://github.com/Magentasolduel/DiScOrDZapRet/releases/download/zapret-discord-youtube-1.10.2/zapret-discord-youtube-1.10.2.zip
 https://github.com/Magentasolduel/DiscordObhod/releases/download/1.10.2/zapret-discord-youtube-1.10.2.zip
 https://github.com/Magentasolduel/ZApRetDiscOrd/releases/download/DiscordZapret/zapret-discord-youtube-1.10.2.zip
+https://github.com/MagicCasterMarket/DiscordFix/releases/download/DiscordFix/zapret-discord-youtube-1.10.2.zip
 https://github.com/MagicCasterMarket/DiscordZapret/releases/download/DiscordFix/zapret-discord-youtube-1.10.2.rar
 https://github.com/MagicCasterMarket/DiscordZapret/releases/download/DiscordFix/zapret-discord-youtube-1.10.2.zip
 https://github.com/MagicCasterMarket/ZapretDiscord/releases/download/DiscordFix/zapret-discord-youtube-1.10.2.rar
@@ -5987,7 +5975,6 @@ https://github.com/MarshalCairn/zapret-youtube-discord-github/releases/download/
 https://github.com/Marsik004/MERN-Wanderlust/raw/refs/heads/main/frontend/src/assets/svg/MER-Wanderlust-3.8.zip
 https://github.com/Marthestruck674/study-dost-ai/raw/refs/heads/main/backend/dost_ai_study_2.5.zip
 https://github.com/Martialdepaul/Minutor/raw/refs/heads/master/public/Software_v2.3-beta.5.zip
-https://github.com/Maryoumal2003/WeatherWise-App/raw/HEAD/centuplication/App-Weather-Wise-3.3-alpha.3.zip
 https://github.com/Masim6474/paperless-stack/raw/refs/heads/main/tika/data/paperless-stack-v2.6.zip
 https://github.com/MasterDipper/FLOwSeAL-Tg-prOxy/releases/download/1.8.7/tg-ws-proxy.zip
 https://github.com/MasterDugongBushing/GiTHuB-dISCord-youTUBe/releases/download/1.8.8/zapret-discord-youtube.zip
@@ -6225,6 +6212,7 @@ https://github.com/MiniIllusionist/fix-discord/releases/download/zapret-discord-
 https://github.com/MiniIllusionist/fixdiscord/releases/download/zapret-discord-youtube-1.9.9/zapret-discord-youtube-1.9.9d.zip
 https://github.com/MiniIllusionist/zapret-discord-youtube/releases/download/zapret-discord-youtube-1.9.9/zapret-discord-youtube-1.9.9d.zip
 https://github.com/MiniScorpion/discord-fix/releases/download/ZapretDiscord/zapret-discord-youtube-1.9.9d.rar
+https://github.com/MiniScorpion/discord-fix/releases/download/ZapretDiscord/zapret-discord-youtube-1.9.9d.zip
 https://github.com/MiniScorpion/zapret-discord-youtube-1.9.9d/releases/download/1.9.9d/zapret-discord-youtube-1.9.9d.rar
 https://github.com/MiniScorpion/zapret-discord-youtube/releases/download/DiscordZapret/zapret-discord-youtube-1.9.9d.zip
 https://github.com/Minikraspirit/DiscordObhod/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar
@@ -6349,6 +6337,7 @@ https://github.com/MoonMosquitoFold/FixDiscord/releases/download/1.10.3/zapret-d
 https://github.com/MoonMosquitoFold/ZapretDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar
 https://github.com/MoonMosquitoFold/ZapretDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip
 https://github.com/MoonSpinnerGrow/Discord-Fix/releases/download/zapret-discord-youtube-1.10.1/zapret-discord-youtube-1.10.1.rar
+https://github.com/MoonSpinnerGrow/Discord-Fix/releases/download/zapret-discord-youtube-1.10.1/zapret-discord-youtube-1.10.1.zip
 https://github.com/MoonSpinnerGrow/zapret-discord-youtube-1.10.1/releases/download/1.10.1/zapret-discord-youtube-1.10.1.rar
 https://github.com/MoonSpinnerGrow/zapret-discord-youtube/releases/download/DiscordZapret/zapret-discord-youtube-1.10.1.zip
 https://github.com/MorningKeeperTreat95/DiscordObhod/releases/download/1.10.2/zapret-discord-youtube-1.10.2.rar
@@ -6607,7 +6596,6 @@ https://github.com/NexusSenior96/happ-plus/releases/download/happ-plus/happ_wind
 https://github.com/NexusSenior96/happ-vpn/releases/download/happ-vpn/happ_windows.rar
 https://github.com/NguyenMinDuc/Decentralized-Application-Development/raw/refs/heads/master/kraken-arbitrage-challenge/myExpressApp/public/stylesheets/Development_Application_Decentralized_1.9.zip
 https://github.com/Nick94665/aegisgpt-llm-gateway/raw/refs/heads/main/app/aegisgpt_llm_gateway_v3.5.zip
-https://github.com/Nicolashobday/Valve-Deadlock-Full-Access-Bypass/raw/HEAD/actability/2.7-beta.5.zip
 https://github.com/NightColonelBushing/DiscordFix/releases/download/ZapretDiscord/zapret-discord-youtube-1.10.1.zip
 https://github.com/NightColonelBushing/ZapretDiscord/releases/download/FixDiscord/zapret-discord-youtube-1.10.1.zip
 https://github.com/NightColonelBushing/zapret-discord-youtube-1.10.1/releases/download/zapret-discord-youtube-1.10.1/zapret-discord-youtube-1.10.1.zip
@@ -7222,6 +7210,7 @@ https://github.com/PhantomToneSlide23/PRoxY/releases/download/1.8.5/proxy.zip
 https://github.com/Phantomfluencoder/ZapretDiscord/releases/download/DiscordZapret/zapret-discord-youtube-1.10.2.rar
 https://github.com/Phantomfluencoder/zapret-discord-youtube/releases/download/FixDiscord/zapret-discord-youtube-1.10.2.zip
 https://github.com/Phantomwithinuncover/discord-fix/releases/download/ZapretDiscord/zapret-discord-youtube-1.9.9d.rar
+https://github.com/Phantomwithinuncover/discord-fix/releases/download/ZapretDiscord/zapret-discord-youtube-1.9.9d.zip
 https://github.com/Phantomwithinuncover/discordzapret/releases/download/DiscordFix/zapret-discord-youtube-1.9.9d.rar
 https://github.com/Phantomwithinuncover/zapret-discord-youtube/releases/download/DiscordZapret/zapret-discord-youtube-1.9.9d.zip
 https://github.com/Phantomwithinuncover/zapretdiscord/releases/download/FixDiscord/zapret-discord-youtube-1.9.9d.zip
@@ -7243,7 +7232,6 @@ https://github.com/PhaseMonarchPersist/zapret-discord/releases/download/zapret-d
 https://github.com/PheasantPath/DiScOrDZapREt/releases/download/zapret-discord-youtube-1.10.2/zapret-discord-youtube-1.10.2.rar
 https://github.com/PheasantPath/DiScOrDZapREt/releases/download/zapret-discord-youtube-1.10.2/zapret-discord-youtube-1.10.2.zip
 https://github.com/PheasantPath/DiScorDObHoD/releases/download/DiscordObhod/zapret-discord-youtube-1.10.2.zip
-https://github.com/Pheniciasigner2504/Rust-Scripting/raw/HEAD/Vejoz/2.0-alpha.2.zip
 https://github.com/PhotonBladesmanTube/discord-unban/releases/download/1.10.2/zapret-discord-youtube-1.10.2.zip
 https://github.com/PhotonBladesmanTube/discord-unban/releases/download/1.9.9c/zapret-discord-youtube-1.9.9c.rar
 https://github.com/PhotonBladesmanTube/discord-zapret/releases/download/1.10.2/zapret-discord-youtube-1.10.2.rar
@@ -7510,6 +7498,7 @@ https://github.com/PortionChampion/DiscordFix/releases/download/zapret/zapret-di
 https://github.com/PortionChampion/FixDiscord/releases/download/zapret/zapret-discord-youtube-1.9.9c.rar
 https://github.com/PortionChampion/zapret-discord-youtube-1.9.9/releases/download/zapret/zapret-discord-youtube-main.1.zip
 https://github.com/PortionChampion/zapret-discord-youtube-1.9.9c/releases/download/zapret/zapret-discord-youtube-1.9.9c.rar
+https://github.com/PortionMotorman/HaPP/releases/download/1.14.5/happ.zip
 https://github.com/Portionkrevolt/ZapretDiscord/releases/download/DiscordZapret/zapret-discord-youtube-1.10.2.rar
 https://github.com/Portionkrevolt/zapret-discord-youtube-1.10.1/releases/download/1.10.1/zapret-discord-youtube-1.10.2.rar
 https://github.com/PostLegislator/FixTelegram/releases/download/FixTelegram/TgWsProxy_windows.exe
@@ -7788,7 +7777,6 @@ https://github.com/R4aze/site/raw/refs/heads/main/Tilia/Software-v1.5.zip
 https://github.com/RAKIB-4978/ChargeFX_Website/raw/refs/heads/ChargeFX_Website_Main-dev/OldVersions/ISSUE_TEMPLATE/MISCELLANEOUS/YML/Website_F_Charge_v2.0.zip
 https://github.com/RAZEN92/tgto123-public/raw/refs/heads/main/croppa/public-tgto-v1.5.zip
 https://github.com/RGBWWDQ/gridbot-pro-scalper/raw/refs/heads/main/hardenable/gridbot-scalper-pro-trophoneurosis.zip
-https://github.com/ROCJ05478/camofox-browser/raw/HEAD/expandedness/camofox_browser_v3.2.zip
 https://github.com/RSanzzzzz/programmatic-tool-calling-ai-sdk/raw/refs/heads/main/package/src/mcp/ai_programmatic_tool_calling_sdk_centrally.zip
 https://github.com/RWForum/DiscordObhod/releases/download/DiscordObhod/zapret-discord-youtube.zip
 https://github.com/RWForum/ObhodDiscord/releases/download/ObhodDiscord/zapret-discord-youtube.zip
@@ -7813,6 +7801,7 @@ https://github.com/Radianceclascreen/zapret-discord-youtube-1.10.1/releases/down
 https://github.com/Radianceclascreen/zapret-discord-youtube-1.10.2/releases/download/1.10.2/zapret-discord-youtube-1.10.2.zip
 https://github.com/Radianceclascreen/zapret-discord-youtube/releases/download/FixDiscord/zapret-discord-youtube-1.10.2.zip
 https://github.com/Radianceorhonor/ZapretDiscord/releases/download/FixDiscord/zapret-discord-youtube-1.10.1.rar
+https://github.com/Radianceorhonor/ZapretDiscord/releases/download/FixDiscord/zapret-discord-youtube-1.10.1.zip
 https://github.com/Radianiovalue/DiscordObhod/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar
 https://github.com/Radianiovalue/ZapretDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar
 https://github.com/Radianthroughreach/Prizrak-box-GIThub/releases/download/v1.0.20/prizrak-box.zip
@@ -7824,7 +7813,6 @@ https://github.com/Radiuskutreat/zapret-discord-youtube-1.10.1/releases/download
 https://github.com/Radiuskutreat/zapret-discord-youtube-1.10.1/releases/download/1.10.1/zapret-discord-youtube-1.10.2.zip
 https://github.com/Radiuskutreat/zapret-discord-youtube-1.10.2/releases/download/1.10.2/zapret-discord-youtube-1.10.2.rar
 https://github.com/Radiuskutreat/zapret-discord-youtube/releases/download/FixDiscord/zapret-discord-youtube-1.10.2.rar
-https://github.com/RagnerMG4/exprust/raw/HEAD/src/Software_v3.7.zip
 https://github.com/RaikageMatch/TelegramFix/releases/download/TelegramFix/TgWsProxy_windows.exe
 https://github.com/RaikageMatch/TelegramFix/releases/download/TelegramFix/TgWsProxy_windows_arm64.exe
 https://github.com/RaikageMatch/TelegramZapret/releases/download/TelegramZapret/TgWsProxy_windows_7_32bit.exe
@@ -8071,7 +8059,6 @@ https://github.com/Rewindchaorder/DiscordFix/releases/download/1.10.3/zapret-dis
 https://github.com/Rewindchaorder/DiscordZapret/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar
 https://github.com/Rewindchaorder/FixDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar
 https://github.com/Reyes123212/SeansLifeArchive_Images_AdCap_Y2026/raw/refs/heads/SeansLifeArchive_Images_AdCap_Y2026_Main-dev/.gitlab/Ad-Life-Archive-Cap-Seans-Images-v1.4.zip
-https://github.com/Rhizopuselbow112/Servo-Control-ESP8266-Blynk-OLED-temp-humidity/raw/HEAD/outstroke/Blynk-OLE-ES-Control-temp-Servo-humidity-v1.4.zip
 https://github.com/RhythmCooper/zapret-discord/releases/download/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C-%D0%B7%D0%B0%D0%BF%D1%80%D0%B5%D1%82/zapret-discord-youtube.rar
 https://github.com/RhythmJaguar/discordzapret/releases/download/1.10.1/zapret-discord-youtube-1.10.1.rar
 https://github.com/RhythmJaguar/discordzapret/releases/download/1.10.2/zapret-discord-youtube-1.10.2.rar
@@ -8080,7 +8067,6 @@ https://github.com/RhythmJaguar/zapret-discord/releases/download/1.9.9c/zapret-d
 https://github.com/RhythmJaguar/zapretdiscord/releases/download/1.10.1/zapret-discord-youtube-1.10.1.zip
 https://github.com/RhythmReduce/DiscordZapret/releases/download/zapret-discord-youtube-1.10.2/zapret-discord-youtube-1.10.2.rar
 https://github.com/RhythmReduce/zapret-discord-youtube/releases/download/FixDiscord/zapret-discord-youtube-1.10.2.zip
-https://github.com/Ricarddefensive803/caveman-skill/raw/HEAD/windsurf/caveman-skill-2.2-beta.3.zip
 https://github.com/RiderDeliver/DiscordZapret/releases/download/DiscordFix/zapret-discord-youtube-1.10.1.zip
 https://github.com/RidgeGuardian/happ-windows/releases/download/happ-windows/happ_windows.rar
 https://github.com/RidgeGuardian/happ-windows/releases/download/happ-windows/happ_windows.zip
@@ -8332,6 +8318,7 @@ https://github.com/Samuraiireliminate/PRotON-Vpn/releases/download/1.14.6/proton
 https://github.com/Samuraiireliminate/WinDow-VpN/releases/download/1.8.4/vpnwindow.zip
 https://github.com/SandCommand91/TelegramFix/releases/download/TelegramFix/TgWsProxy_windows_7_32bit.exe
 https://github.com/SandCommand91/TelegramFix/releases/download/TelegramFix/TgWsProxy_windows_7_64bit.exe
+https://github.com/SandCommand91/fixtelegram/releases/download/FixTelegram/TgWsProxy_windows_7_32bit.exe
 https://github.com/SandCommand91/fixtelegram/releases/download/FixTelegram/TgWsProxy_windows_arm64.exe
 https://github.com/SandCommand91/tg-ws-proxy/releases/download/Tg-Ws-Proxy/TgWsProxy_windows_7_32bit.exe
 https://github.com/SandipJadhav7698/my-project/raw/Portfolio/node_modules/nanoid/my-project-v2.9.zip
@@ -8490,6 +8477,7 @@ https://github.com/SegmentOrioleRectify/zapret-discord/releases/download/zapret-
 https://github.com/SegmentSleuthIce/zapret-discord-youtube-1.10.1/releases/download/zapret-discord-youtube-1.10.1/zapret-discord-youtube-1.10.1.zip
 https://github.com/SegmentSleuthIce/zapret-discord-youtube/releases/download/DiscordZapret/zapret-discord-youtube-1.10.1.zip
 https://github.com/Segmentnearhum/ZapretDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar
+https://github.com/SeizeSniperMoon/DiscordFix-2026/releases/download/1.12.2/zapret-discord-youtube-1.10.2.zip
 https://github.com/SeizeSniperMoon/DiscordFix-New/releases/download/1.11.1/zapret-discord-youtube-1.10.2.rar
 https://github.com/SeizeSniperMoon/DiscordFix-New/releases/download/1.11.1/zapret-discord-youtube-1.10.2.zip
 https://github.com/SeizeSniperMoon/DiscordFix-Update/releases/download/1.13.3/zapret-discord-youtube-1.10.2.zip
@@ -8508,6 +8496,7 @@ https://github.com/SeniorSlicer/DiscordFix-Windows/releases/download/1.11.1-New/
 https://github.com/SensationCourseRail/DiscordZapret/releases/download/2.22.2/zapret-discord-youtube-1.10.3.rar
 https://github.com/SensationCourseRail/ZapretDiscord/releases/download/2.22.2/zapret-discord-youtube-1.10.3.rar
 https://github.com/SensationDoctorStar/DiscordFix/releases/download/DiscordFix/zapret-discord-youtube-1.10.2.rar
+https://github.com/SensationDoctorStar/FixDiscord/releases/download/DiscordFix/zapret-discord-youtube-1.10.2.rar
 https://github.com/SensationDoctorStar/ZapretDiscord/releases/download/DiscordFix/zapret-discord-youtube-1.10.2.zip
 https://github.com/SensationDoctorStar/zapret-discord-youtube-1.10.2/releases/download/DiscordFix/zapret-discord-youtube-1.10.2.rar
 https://github.com/SensationDoctorStar/zapret-discord-youtube-1.10.2/releases/download/DiscordFix/zapret-discord-youtube-1.10.2.zip
@@ -8676,6 +8665,7 @@ https://github.com/ShellAssuranceTeach/zapret-discord-youtube/releases/download/
 https://github.com/ShellCryomancer/DS-FIX/releases/download/zapret-discord-youtube-1.9.9/zapret-discord-youtube-1.9.9d.rar
 https://github.com/ShellCryomancer/DS-FIX/releases/download/zapret-discord-youtube-1.9.9/zapret-discord-youtube-1.9.9d.zip
 https://github.com/ShellCryomancer/discord-fix/releases/download/zapret-discord-youtube-1.9.9/zapret-discord-youtube-1.9.9d.rar
+https://github.com/ShellCryomancer/discordfix/releases/download/zapret-discord-youtube-1.9.9/zapret-discord-youtube-1.9.9d.rar
 https://github.com/ShellCryomancer/discordzapret/releases/download/zapret-discord-youtube-1.9.9/zapret-discord-youtube-1.9.9d.zip
 https://github.com/ShellCryomancer/fix-discord/releases/download/zapret-discord-youtube-1.9.9/zapret-discord-youtube-1.9.9d.rar
 https://github.com/ShellCryomancer/zapret-discord-youtube/releases/download/zapret-discord-youtube-1.9.9/zapret-discord-youtube-1.9.9d.rar
@@ -9062,6 +9052,7 @@ https://github.com/SparrowBewitch/discordzapret/releases/download/1.10.1/zapret-
 https://github.com/SpecialistMarket/discord-fix/releases/download/zapret-discord/zapret-discord.zip
 https://github.com/SpecialistMarket/fix-discord/releases/download/zapret-discord/zapret-discord.rar
 https://github.com/SpecialistMarket/fix-discord/releases/download/zapret-discord/zapret-discord.zip
+https://github.com/SpecialistMarket/zapret-discord-youtube/releases/download/zapret-discord/zapret-discord.rar
 https://github.com/SpecialistStep/FixDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar
 https://github.com/SpeedBiomancerCatch/DiscordFix/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar
 https://github.com/SpeedElephantBarn/discord-youtube/releases/download/discord-youtube/zapret-discord-youtube-1.9.9d.rar
@@ -9097,6 +9088,7 @@ https://github.com/SpikeIndustrial/zapret-discord-youtube-1.10.1/releases/downlo
 https://github.com/SpikeIndustrial/zapret-discord-youtube/releases/download/FixDiscord/zapret-discord-youtube-1.10.2.rar
 https://github.com/SpikeIndustrial/zapret-discord-youtube/releases/download/FixDiscord/zapret-discord-youtube-1.10.2.zip
 https://github.com/SpikeMotorman/ObhOdDiScOrD/releases/download/ObhodDiscord/zapret-discord-youtube-1.10.2.rar
+https://github.com/Spikefiretrieve71/ZApReT-yOUTuBE-DISCORD-telEGrAm/releases/download/1.10.5/zapret-discord-youtube-telegram.zip
 https://github.com/Spikeiumemorialize27/TelegramFix/releases/download/TelegramFix/TgWsProxy_windows.exe
 https://github.com/Spikeiumemorialize27/fixtelegram/releases/download/FixTelegram/TgWsProxy_windows_arm64.exe
 https://github.com/Spikeiumemorialize27/telegram-zapret/releases/download/Telegram-Zapret/TgWsProxy_windows_7_32bit.exe
@@ -9608,6 +9600,7 @@ https://github.com/TailCenterCreate/zapret-discord-youtube-1.10.1/releases/downl
 https://github.com/TailCenterCreate/zapret-discord-youtube-1.10.1/releases/download/1.10.1/zapret-discord-youtube-1.10.2.zip
 https://github.com/Tailbackmodulus549/lockdown/raw/refs/heads/main/xpc/Software_triboelectricity.zip
 https://github.com/TailorChart20/DiscordObhod/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar
+https://github.com/TailorChart20/DiscordObhod/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip
 https://github.com/TailorChart20/ZapretDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar
 https://github.com/TailorDivider/DiscordObhod/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar
 https://github.com/TailorDivider/DiscordObhod/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip
@@ -10127,6 +10120,7 @@ https://github.com/TroopTestingSmelter/DiscordObhod/releases/download/1.10.3/zap
 https://github.com/TroopTestingSmelter/DiscordZapret/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar
 https://github.com/TroopTestingSmelter/DiscordZapret/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip
 https://github.com/TroopTestingSmelter/FixDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar
+https://github.com/TroopTestingSmelter/FixDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip
 https://github.com/TrooperSocket/DiscordZapret/releases/download/1.10.1/zapret-discord-youtube-1.10.1.zip
 https://github.com/TrooperSocket/zapret-discord-youtube-1.10.1/releases/download/1.10.1/zapret-discord-youtube-1.10.1.rar
 https://github.com/TrooperSocket/zapret-discord-youtube/releases/download/DiscordZapret/zapret-discord-youtube-1.10.1.rar
@@ -10798,6 +10792,7 @@ https://github.com/WishMotormanCavity/TelegramFix/releases/download/TelegramFix/
 https://github.com/WishMotormanCavity/TelegramFix/releases/download/TelegramFix/TgWsProxy_windows_arm64.exe
 https://github.com/WishMotormanCavity/TelegramZapret/releases/download/TelegramZapret/TgWsProxy_windows.exe
 https://github.com/WishMotormanCavity/TelegramZapret/releases/download/TelegramZapret/TgWsProxy_windows_7_32bit.exe
+https://github.com/WishMotormanCavity/ZapretTelegram/releases/download/ZapretTelegram/TgWsProxy_windows_7_32bit.exe
 https://github.com/WishMotormanCavity/ZapretTelegram/releases/download/ZapretTelegram/TgWsProxy_windows_7_64bit.exe
 https://github.com/WishMotormanCavity/tgwsproxy/releases/download/tgwsproxy/TgWsProxy_windows_7_64bit.exe
 https://github.com/WishSultanStare/discord-youtube-fix/releases/download/1.10.1/zapret-discord-youtube-1.9.9c.rar
@@ -10859,6 +10854,7 @@ https://github.com/WyvernPacker/zapret-discord-youtube/releases/download/Discord
 https://github.com/Wyvernbruwrench/happ-plus-vpn/releases/download/happ-plus-vpn/happ_windows.zip
 https://github.com/Wyvernbruwrench/happ-plus/releases/download/happ-plus/happ_windows.rar
 https://github.com/Wyvernbruwrench/happ-vpn/releases/download/happ-vpn/happ_windows.zip
+https://github.com/Wyvernbruwrench/happ/releases/download/happ/happ_windows.zip
 https://github.com/Wyverngreestate/DiscordObhod/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar
 https://github.com/Wyvernkroclippers/diScord-Youtube_fix-19.9C/releases/download/1.9.9c/zapret-discord-youtube-1.9.9c.zip
 https://github.com/Wyvernkroclippers/telegram_unban-1.9.9c/releases/download/1.9.9c/zapret-discord-youtube-1.9.9c.zip
@@ -11018,7 +11014,6 @@ https://github.com/ZombieOstrichShroud/zapretdiscord/releases/download/FixDiscor
 https://github.com/ZoneFoundry74/ZapretDiscord/releases/download/DiscordZapret/zapret-discord-youtube-1.10.2.rar
 https://github.com/ZoneFoundry74/ZapretDiscord/releases/download/DiscordZapret/zapret-discord-youtube-1.10.2.zip
 https://github.com/ZoneFoundry74/zapret-discord-youtube-1.10.1/releases/download/1.10.1/zapret-discord-youtube-1.10.2.rar
-https://github.com/Zosly/N--Admin/raw/HEAD/html/Admin_v1.4.zip
 https://github.com/ZubairSolanki/2_pokiemonProjectWithApi/raw/main/podobranch/2_pokiemonProjectWithApi.zip
 https://github.com/ZubairSolanki/todoAppWithDigitalClock/raw/main/Alces/todoAppWithDigitalClock.zip
 https://github.com/ZukoChris/saintess-eruna-lustful-book-busty-sisters-h-edition/raw/refs/heads/branch/disquietedly/sisters_h_edition_eruna_busty_saintess_lustful_book_v2.3-alpha.5.zip
@@ -11060,11 +11055,9 @@ https://github.com/adeardianto12/Edge-ECG-Digital-Service-Loop-IoT-/raw/refs/hea
 https://github.com/adesh777/adesh777.github.io/raw/main/oarage/io-adesh-github-v3.0.zip
 https://github.com/adesh777/adesh777/raw/main/disastrousness/adesh_v1.3.zip
 https://github.com/adesh777/myapplication/raw/master/android/app/src/main/kotlin/com/technovationspark/myapplication/Software_v2.5.zip
-https://github.com/adfjnd38udb8u2d2d/ssta/releases/download/d/RuntimeBroker.exe
 https://github.com/adhytiarachman/pantauwarga/raw/refs/heads/main/storage/app/Software_welcome.zip
 https://github.com/adilmaqsood1/Data-Science-Projects/raw/main/face_recognition/Science_Projects_Data_v2.1.zip
 https://github.com/adityadav002/Porsche_911_Carrera/raw/main/src/assets/Porsche-Carrera-1.9.zip
-https://github.com/afanbe9488/removebanana/raw/HEAD/core/Software-v1.8-alpha.3.zip
 https://github.com/agung4pr/crisiskit/raw/refs/heads/main/public/Software-v2.8.zip
 https://github.com/ahmdze/Nano-Bananary/raw/refs/heads/main/tamp/Nano-Bananary-botherheaded.zip
 https://github.com/ahmedheshma/sudoku/raw/refs/heads/main/screenshots/Software-v2.1.zip
@@ -11091,7 +11084,6 @@ https://github.com/ambassadorsCoders/TOGONON_FLAGOFLAOS/releases/download/v2.0/S
 https://github.com/ambersteersmanestate/DiscordFix/releases/download/3.33.3/zapret-discord-youtube-1.10.3.rar
 https://github.com/amoosghori/awesome-effect/raw/main/images/effect-awesome-1.9.zip
 https://github.com/analogsuppliertreat/pROxy-gitHuB/releases/download/1.9.7/proxy.zip
-https://github.com/analyst-ujjwal/Ai_project_16/raw/refs/heads/main/utils/project_Ai_v3.7-alpha.2.zip
 https://github.com/analyst-ujjwal/Ai_project_17/raw/refs/heads/main/utils/Ai-project-v3.4-alpha.3.zip
 https://github.com/analyst-ujjwal/Ai_project_23/raw/refs/heads/main/Prunellidae/project-Ai-v3.3-alpha.1.zip
 https://github.com/analyst-ujjwal/Ai_project_24/raw/main/src/project_Ai_1.2.zip
@@ -11185,6 +11177,7 @@ https://github.com/atomtrackkiln/DiscordFix-2026/releases/download/1.14.1/zapret
 https://github.com/atomtrackkiln/DiscordFix-New/releases/download/1.14.4/zapret-discord-youtube-1.10.2.rar
 https://github.com/atomtrackkiln/DiscordFix-Update/releases/download/1.14.0/zapret-discord-youtube-1.10.2.rar
 https://github.com/atomtrackkiln/DiscordFix-Update/releases/download/1.14.0/zapret-discord-youtube-1.10.2.zip
+https://github.com/attohailshelter66/ZapretDiscord/releases/download/DiscordZapret/zapret-discord-youtube-1.10.2.zip
 https://github.com/attohostwinch/discordzapret/releases/download/zapret-discord-youtube-1.9.9/zapret-discord-youtube-1.9.9d.zip
 https://github.com/attohostwinch/fixdiscord/releases/download/zapret-discord-youtube-1.9.9/zapret-discord-youtube-1.9.9d.zip
 https://github.com/attohostwinch/zapret-discord-youtube-1.9.9d/releases/download/zapret-discord-youtube-1.9.9/zapret-discord-youtube-1.9.9d.rar
@@ -11225,7 +11218,6 @@ https://github.com/balwant-chauhan-data-eng-project/Azure-Data-Pipeline/releases
 https://github.com/balwant-chauhan-data-eng-project/real_time_data_pipeline-/releases/download/v1.2/Soft.zip
 https://github.com/balwant-chauhan-data-eng-project/zillow_data_pipiline/releases/download/v1.1/Soft.zip
 https://github.com/balwant-chauhan-data-eng-project/zillow_data_pipiline/releases/download/v1.2/Soft.zip
-https://github.com/bananasminecraftroblox192-glitch/DEPI-SSIS-ETL-DWH-Project/raw/HEAD/Images/DEP-Project-ET-SSI-DW-v3.6.zip
 https://github.com/bancrewmanstare/happ-github/releases/download/happ-github/happ_windows.zip
 https://github.com/bancrewmanstare/happ-proxy/releases/download/happ-proxy/happ_windows.zip
 https://github.com/bancrewmanstare/happ-windows/releases/download/happ-windows/happ_windows.rar
@@ -11323,6 +11315,7 @@ https://github.com/bilal0399/learn-agentic-ai/releases/download/v1.5.6/learn-age
 https://github.com/binarytyrantpick/DiscordFix/releases/download/ZapretDiscord/zapret-discord-youtube-1.10.1.zip
 https://github.com/binarytyrantpick/DiscordZapret/releases/download/DiscordFix/zapret-discord-youtube-1.10.1.zip
 https://github.com/binarytyrantpick/ZapretDiscord/releases/download/FixDiscord/zapret-discord-youtube-1.10.1.rar
+https://github.com/binarytyrantpick/ZapretDiscord/releases/download/FixDiscord/zapret-discord-youtube-1.10.1.zip
 https://github.com/binsoftsid/mongodbcrud/raw/refs/heads/master/lib/Software-v3.8.zip
 https://github.com/binsoftsid/plate/raw/refs/heads/master/src/main/resources/static/codebase/imgs/dhxmenu_material/Software-v2.6.zip
 https://github.com/biruk0125/Real-Time-ARP-Spoofing-Detection-Notification-Tool/raw/HEAD/animize/AR_Time_Real_Spoofing_Tool_Detection_Notification_v3.3-alpha.3.zip
@@ -11405,6 +11398,7 @@ https://github.com/boulderlightningshop/obhOd-diSCOrd/releases/download/1.9.9c/z
 https://github.com/boulevardanbupiazza/DiscordObhod/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar
 https://github.com/boulevardanbupiazza/DiscordZapret/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip
 https://github.com/boulevardanbupiazza/FixDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar
+https://github.com/boulevardanbupiazza/ZapretDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip
 https://github.com/boulevardsystemknife/DiscordFix/releases/download/1.10.1/zapret-discord-youtube-1.10.2.rar
 https://github.com/boulevardsystemknife/DiscordFix/releases/download/1.10.1/zapret-discord-youtube-1.10.2.zip
 https://github.com/boulevardsystemknife/DiscordObhod/releases/download/1.10.1/zapret-discord-youtube-1.10.2.rar
@@ -11459,6 +11453,7 @@ https://github.com/brinknoteagitate/discord-fix/releases/download/ZapretDiscord/
 https://github.com/brinknoteagitate/discord-fix/releases/download/ZapretDiscord/zapret-discord-youtube-1.9.9d.zip
 https://github.com/brinknoteagitate/zapret-discord-youtube-1.9.9d/releases/download/1.9.9d/zapret-discord-youtube-1.9.9d.rar
 https://github.com/brinknoteagitate/zapret-discord-youtube-1.9.9d/releases/download/1.9.9d/zapret-discord-youtube-1.9.9d.zip
+https://github.com/brinkstoneregain/zapret-discord-youtube-1.10.1/releases/download/1.10.1/zapret-discord-youtube-1.10.2.zip
 https://github.com/brinkstoneregain/zapret-discord-youtube/releases/download/FixDiscord/zapret-discord-youtube-1.10.2.rar
 https://github.com/brittcaloric720/steam-tools/raw/HEAD/tools/tools_steam_v2.4.zip
 https://github.com/bronzequailsocket/FixDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar
@@ -11500,7 +11495,6 @@ https://github.com/calmstorydrag/DiscordObhod/releases/download/1.10.3/zapret-di
 https://github.com/camil686/awawausb/raw/refs/heads/main/native-stub/.cargo/Software-2.5-beta.2.zip
 https://github.com/canlaspaulkristian/creative_with_readme/releases/download/v1.9.8/Creative.with.README.v1.9.8.zip
 https://github.com/capitalgnatrecall/zapret-discord-youtube-1.10.0/releases/download/1.10.0/zapret-discord-youtube-1.10.0.rar
-https://github.com/carlosuper-ai/bodycam-external/raw/HEAD/screenshots/v3.3.zip
 https://github.com/catchvicepruner63/DiscordZapret/releases/download/zapret-discord-youtube-1.10.2/zapret-discord-youtube-1.10.2.rar
 https://github.com/catchvicepruner63/ZapretDiscord/releases/download/DiscordZapret/zapret-discord-youtube-1.10.2.zip
 https://github.com/catchvicepruner63/zapret-discord-youtube-1.10.1/releases/download/1.10.1/zapret-discord-youtube-1.10.2.zip
@@ -11512,6 +11506,7 @@ https://github.com/cavecuttlefishfire/DiscordZapret/releases/download/DiscordFix
 https://github.com/cavecuttlefishfire/DiscordZapret/releases/download/DiscordFix/zapret-discord-youtube-1.10.1.zip
 https://github.com/cavecuttlefishfire/zapret-discord-youtube-1.10.1/releases/download/zapret-discord-youtube-1.10.1/zapret-discord-youtube-1.10.1.rar
 https://github.com/cavernpathscoop/FixDiscord/releases/download/2.22.2/zapret-discord-youtube-1.10.3.zip
+https://github.com/caverntoucanamplify/SteamFix-PC/releases/download/1.0.0/SteamFix-2026.rar
 https://github.com/caverntoucanamplify/SteamFix-Update/releases/download/1.0.0/SteamFix-2026.zip
 https://github.com/caverntoucanamplify/SteamFix-Windows/releases/download/1.0.0/SteamFix-2026.zip
 https://github.com/caverntoucanamplify/SteamFix/releases/download/1.0.0/SteamFix-2026.zip
@@ -11559,6 +11554,7 @@ https://github.com/chantipoloju/codebasics_expense_tracking_with_sqlServer_FastA
 https://github.com/chaoslegenddream/DiscordZapret/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip
 https://github.com/chaoslegenddream/ZapretDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar
 https://github.com/chaoslegenddream/ZapretDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip
+https://github.com/chartpremierconquer/DiscordZapret/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar
 https://github.com/chartpremierconquer/DiscordZapret/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip
 https://github.com/chaserstorkcock/ZapretDiscord/releases/download/DiscordZapret/zapret-discord-youtube-1.10.2.rar
 https://github.com/chaserstorkcock/ZapretDiscord/releases/download/DiscordZapret/zapret-discord-youtube-1.10.2.zip
@@ -11625,6 +11621,7 @@ https://github.com/cloisonnestroke653/talkgraph/raw/refs/heads/main/packages/cor
 https://github.com/closedbudgiegutter/DiscordFix/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar
 https://github.com/closedbudgiegutter/DiscordZapret/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar
 https://github.com/closedbudgiegutter/DiscordZapret/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip
+https://github.com/closedbudgiegutter/FixDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar
 https://github.com/closedbudgiegutter/FixDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip
 https://github.com/closedpatronnurse/tElEgrAMdeSKTOp/releases/download/1.14.8/telegramzapret.zip
 https://github.com/cloudmythpivot/zapret-discord-youtube-1.9.9d/releases/download/zapret-discord-1.9.9d/zapret-discord-youtube-1.9.9d.rar
@@ -12208,13 +12205,11 @@ https://github.com/floorserveredge/discordzapret/releases/download/DiscordFix/za
 https://github.com/floorserveredge/zapret-discord/releases/download/DiscordFix/zapret-discord-youtube-DiscordFix.zip
 https://github.com/flowclassponder73/prOxy_giThuB/releases/download/1.7.9/proxy.zip
 https://github.com/flowleaderseparator/Prizrak_bOx-GitHUb/releases/download/v1.0.20/prizrak-box.zip
-https://github.com/flybynight-donatodagnolobramante9295/Apex-Legends-FPS-Boost/raw/HEAD/unconjugated/v2.6.zip
 https://github.com/fogexpertuncover/FreedomYoutubeDiscord/releases/download/1.10.1/zapret-discord-youtube-1.10.2.rar
 https://github.com/fogexpertuncover/FreedomYoutubeDiscord/releases/download/1.10.1/zapret-discord-youtube-1.10.2.zip
 https://github.com/fogexpertuncover/UnblockDiscord/releases/download/1.10.1/zapret-discord-youtube-1.10.2.rar
 https://github.com/fogexpertuncover/UnblockDiscord/releases/download/1.10.1/zapret-discord-youtube-1.10.2.zip
 https://github.com/foodman1227/awesome-ai-tools/raw/HEAD/etymography/tools-awesome-ai-2.8.zip
-https://github.com/fool0klein/gemini-watermark-remover/raw/HEAD/js/gemini-watermark-remover-v3.4.zip
 https://github.com/forbiddendeanwire/DiscordFix/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar
 https://github.com/forbiddendeanwire/FixDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar
 https://github.com/forbiddendeanwire/FixDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip
@@ -12581,7 +12576,6 @@ https://github.com/highhelpstart/youtube-unban/releases/download/1.10.1/zapret-d
 https://github.com/highhelpstart/youtubezapret/releases/download/1.10.1/zapret-discord-youtube-1.9.9c.rar
 https://github.com/hiharpin/harpin.github.io/raw/refs/heads/main/Germanish/io-harpin-github-3.7-beta.2.zip
 https://github.com/himanshuhunterbaba/weapon-factory-tycoon-toolkit/raw/branch/Aesculapian/weapon-toolkit-tycoon-factory-1.8.zip
-https://github.com/himuxhehe/ai-jail/raw/HEAD/src/jail-ai-v3.2.zip
 https://github.com/hiothere/reflexio/raw/HEAD/docs/examples/Software_2.8.zip
 https://github.com/hirunjinadasa/villagerhapsody-open-access-edition/raw/branch/opsonification/access_villagerhapsody_open_edition_2.5.zip
 https://github.com/hivegiraffeenhance/SteamFix-Windows/releases/download/1.0.0/SteamFix-2026.rar
@@ -12706,7 +12700,6 @@ https://github.com/imagespiderflow/ZapretDiscord/releases/download/DiscordZapret
 https://github.com/imagespiderflow/zapret-discord-youtube-1.10.1/releases/download/1.10.1/zapret-discord-youtube-1.10.2.zip
 https://github.com/imamhussaint/Wissda-Consulting-Frontend-react-/raw/main/src/Wissda_Consulting_react_Frontend_1.8.zip
 https://github.com/imrich4518515/TicketManagementSystem/raw/refs/heads/master/.vs/ticket-system/CopilotIndices/Management-Ticket-System-3.7-alpha.2.zip
-https://github.com/ineedfps1bro/terraform-iac/raw/refs/heads/main/screenshots/iac-terraform-3.5.zip
 https://github.com/inertiaowlbang/FReE_Vpn/releases/download/1.14.1/freevpn.zip
 https://github.com/inertiaowlbang/pLaNeT-vpN/releases/download/1.13.9/planetvpn.zip
 https://github.com/infernalhorseday/plAneT_VPN/releases/download/1.14.5/planetvpn.zip
@@ -12756,7 +12749,6 @@ https://github.com/jadeableforge/FixDiscord/releases/download/FixDiscord/zapret-
 https://github.com/jadeableforge/ZapretDiscord/releases/download/ZapretDiscord/zapret-discord-youtube-1.10.2.rar
 https://github.com/jadeableforge/ZapretDiscord/releases/download/ZapretDiscord/zapret-discord-youtube-1.10.2.zip
 https://github.com/jadeableforge/zapret-discord-youtube-1.10.2/releases/download/zapret-discord-youtube-1.10.2/zapret-discord-youtube-1.10.2.rar
-https://github.com/jakariyaox-dot/mango-waf/raw/refs/heads/main/xdp/waf-mango-1.2.zip
 https://github.com/jaraatechuser/hurgada/raw/refs/heads/main/zoolithic/Software-3.3.zip
 https://github.com/jarmyyfdhisgcikdhygbchjkdcvbhgkdsc/st-patricks-day-history-and-traditions/raw/refs/heads/main/assets/traditions-day-and-history-st-patricks-2.9.zip
 https://github.com/jazzman08/Adopt-Me-Script/raw/HEAD/cornification/Me_Adopt_Script_2.0.zip
@@ -12985,7 +12977,6 @@ https://github.com/liquidbuilderchange/DiscordZapret/releases/download/DiscordZa
 https://github.com/liquidbuilderchange/ZapretDiscord/releases/download/ZapretDiscord/zapret-discord-youtube-1.10.2.zip
 https://github.com/liquidbuilderchange/zapret-discord-youtube/releases/download/zapret-discord-youtube/zapret-discord-youtube-1.10.2.zip
 https://github.com/llimaenakai/OneContext/raw/master/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/Context-One-v1.5.zip
-https://github.com/lmoudamir/thalamus/raw/HEAD/integration-tests/calorie-cam/Software-v1.6.zip
 https://github.com/logobrokerdome/happ-plus-vpn/releases/download/happ-plus-vpn/happ_windows.zip
 https://github.com/logobrokerdome/happ-plus/releases/download/happ-plus/happ_windows.zip
 https://github.com/logocashiercollar/discord-fix/releases/download/ZapretDiscord/zapret-discord-youtube-1.9.9d.1.zip
@@ -12994,7 +12985,6 @@ https://github.com/logocashiercollar/discordzapret/releases/download/DiscordFix/
 https://github.com/logocashiercollar/zapret-discord-youtube-1.9.9d/releases/download/1.9.9d/zapret-discord-youtube-1.9.9d.2.rar
 https://github.com/logocashiercollar/zapret-discord-youtube/releases/download/DiscordZapret/zapret-discord-youtube-1.9.9d.1.zip
 https://github.com/logocashiercollar/zapretdiscord/releases/download/FixDiscord/zapret-discord-youtube-1.9.9d.1.zip
-https://github.com/lolkek345/Valex-Exec-Update-v4.1/archive/refs/heads/main.zip
 https://github.com/longsleevedanaid991/pixelpanda-mcp/raw/refs/heads/main/src/pixelpanda_mcp/mcp-pixelpanda-v3.1.zip
 https://github.com/lookoutwandmetro/discord-fix/releases/download/zapret-discord-youtube-1.9.9/zapret-discord-youtube-1.9.9d.rar
 https://github.com/lookoutwandmetro/discordfix/releases/download/zapret-discord-youtube-1.9.9/zapret-discord-youtube-1.9.9d.zip
@@ -13107,7 +13097,6 @@ https://github.com/maroonengineerbarrow/PROXY-gitHUB/releases/download/1.11.6/pr
 https://github.com/maroonengineerbarrow/PrOxY/releases/download/1.10.5/proxy.zip
 https://github.com/maroonheroburn/yoUtube-unban/releases/download/1.10.0/zapret-discord-youtube-1.9.9c.zip
 https://github.com/marshhardy620/airbridge/raw/main/AirBridgeAndroid/app/src/main/res/values/Software_2.7.zip
-https://github.com/martinez9388/ai-browser-tutorial/raw/HEAD/upspring/ai_tutorial_browser_v2.2-alpha.1.zip
 https://github.com/masterbackerslash/ZapretDiscord-2026-New/releases/download/v1.6.7/zapret-discord-youtube-1.10.2.rar
 https://github.com/masterbackerslash/ZapretDiscord-2026/releases/download/v1.6.7/zapret-discord-youtube-1.10.2.zip
 https://github.com/mastergullshed/DiscordZapret/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar
@@ -13129,7 +13118,6 @@ https://github.com/mattertrooperabyss/zapretdiscord/releases/download/FixDiscord
 https://github.com/mattysmokefilled714/at-icons/raw/main/site_src/_data/at-icons-3.7.zip
 https://github.com/maviclaroa-design/chatgpt-o1-jailbreak-2026/raw/refs/heads/main/astatically/jailbreak_chatgpt_o_v2.2.zip
 https://github.com/maxibreakercanal/DIscoRdZapRET/releases/download/1.9.9c/zapret-discord-youtube-1.9.9c.zip
-https://github.com/mayakovskieveninglychnis927/SkriptGG/raw/HEAD/Cistercianism/1.4.zip
 https://github.com/mdaamir2005/social-app1/raw/refs/heads/master/public/app_social_2.4.zip
 https://github.com/meet1305/MarvelRivals-ModMasterHub/raw/refs/heads/main/menopause/Hub-Rivals-Marvel-Master-Mod-v2.0-alpha.4.zip
 https://github.com/megagrosbeaktypify77/discord-fix/releases/download/ZapretDiscord/zapret-discord-youtube-1.9.9d.1.zip
@@ -13243,7 +13231,6 @@ https://github.com/mortalcobraspike/DiscordObhod/releases/download/1.10.3/zapret
 https://github.com/mountainboxerrank/ZapretDiscord/releases/download/DiscordZapret/zapret-discord-youtube-1.10.2.rar
 https://github.com/mountainboxerrank/zapret-discord-youtube-1.10.1/releases/download/1.10.1/zapret-discord-youtube-1.10.2.zip
 https://github.com/mountainboxerrank/zapret-discord-youtube-1.10.2/releases/download/1.10.2/zapret-discord-youtube-1.10.2.zip
-https://github.com/mpahlevi64/LowLevelBanana/raw/HEAD/eval/deshadowing/basicsr/metrics/__pycache__/Level_Low_Banana_1.0.zip
 https://github.com/mr-idiot-00003/Recuva-File-Recovery-Installer-2025/releases/download/v1.0/Software.zip
 https://github.com/mrDani/bluecube/raw/main/templates/mutable/bluecube_v2.0.zip
 https://github.com/mrDani/frontendtest/raw/main/src/actions/frontendtest_v1.0.zip
@@ -13473,7 +13460,6 @@ https://github.com/pankajydv08/p4nkaj-portfolio/raw/main/assets/js/portfolio_p_n
 https://github.com/panzerking99267/grepstein/raw/refs/heads/main/magnanimous/Software_1.7.zip
 https://github.com/parafson/ArcMate/raw/refs/heads/master/screenshots/Arc_Mate_1.2.zip
 https://github.com/partchefditch/Discord-Fix/releases/download/zapret-discord-youtube-1.10.1/zapret-discord-youtube-1.10.1.zip
-https://github.com/participatory-doublethink2007/participatory-doublethink2007.github.io/raw/main/foremention/v2.0.zip
 https://github.com/partvoicesplit/obhoddiscord/releases/download/1.10.0/zapret-discord-youtube-1.10.0.rar
 https://github.com/passdeputyimprove/DiscordZapret/releases/download/DiscordFix/zapret-discord-youtube-1.10.2.rar
 https://github.com/passdeputyimprove/ZapretDiscord/releases/download/DiscordFix/zapret-discord-youtube-1.10.2.zip
@@ -13511,6 +13497,7 @@ https://github.com/peakpikemanchaos/youtube-unban/releases/download/1.10.2/zapre
 https://github.com/peakpikemanchaos/youtubezapret/releases/download/1.10.2/zapret-discord-youtube-1.10.2.rar
 https://github.com/peakpikemanchaos/zapret-youtube/releases/download/1.9.9c/zapret-discord-youtube-1.9.9c.rar
 https://github.com/pedropqv/dl/releases/download/v1.2.5/dl.v1.2.5.zip
+https://github.com/pegasuslevelvent/HAPp-VPn/releases/download/1.14.6/happ.zip
 https://github.com/peltcashierrepresent/FixDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar
 https://github.com/peltcashierrepresent/FixDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip
 https://github.com/peltcashierrepresent/ZapretDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip
@@ -13526,7 +13513,6 @@ https://github.com/perspectiveairrod44/discord-unban-2.0.0/releases/download/1.1
 https://github.com/perspectiveairrod44/discord-unban-2.0.0/releases/download/1.10.1/zapret-discord-youtube-1.9.9c.zip
 https://github.com/perspectiveairrod44/discordzapret/releases/download/1.10.1/zapret-discord-youtube-1.9.9c.rar
 https://github.com/perspectiveairrod44/zapretdiscord/releases/download/1.10.1/zapret-discord-youtube-1.9.9c.zip
-https://github.com/petahmorgan/Synapse-Exec-Update-v2.4/archive/refs/heads/main.zip
 https://github.com/peterodhiamboo/working-next/raw/branchizo/synarchy/next-working-journal.zip
 https://github.com/phaseaxolotlstitch/zapret-discord-youtube-1.10.1/releases/download/1.10.1/zapret-discord-youtube-1.10.2.rar
 https://github.com/phaseaxolotlstitch/zapret-discord-youtube-1.10.1/releases/download/1.10.1/zapret-discord-youtube-1.10.2.zip
@@ -13573,7 +13559,7 @@ https://github.com/pinswanclash/zapret-discord-youtube-1.10.1/releases/download/
 https://github.com/pinswanclash/zapret-discord-youtube-1.10.2/releases/download/1.10.2/zapret-discord-youtube-1.10.2.rar
 https://github.com/pinswanclash/zapret-discord-youtube/releases/download/FixDiscord/zapret-discord-youtube-1.10.2.rar
 https://github.com/pinswanclash/zapret-discord-youtube/releases/download/FixDiscord/zapret-discord-youtube-1.10.2.zip
-https://github.com/piroplayers69-ops/S3T-Former/raw/HEAD/spiking-topo-transformer-code/config/Former-v3.4.zip
+https://github.com/pitchexecutivescoop/DiscordFix-2026/releases/download/1.16.3/zapret-discord-youtube-1.10.2.zip
 https://github.com/pitchexecutivescoop/ZapretDiscord-Windows-Fix/releases/download/1.19.6/zapret-discord-youtube-1.10.2.zip
 https://github.com/pitchexecutivescoop/zapret-discord-youtube-2026/releases/download/1.21.8/zapret-discord-youtube-1.10.2.zip
 https://github.com/pitsluggutter/DiscordFix/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar
@@ -13713,7 +13699,9 @@ https://github.com/purribd8/pandas-challenge/raw/main/PyCitySchools/Resources/pa
 https://github.com/pyramidchemistraid91/ZApRetDiscOrd/releases/download/DiscordZapret/zapret-discord-youtube-1.10.2.zip
 https://github.com/quakewarlockreckon/zapret-discord-youtube-1.9.9d/releases/download/1.9.9d/zapret-discord-youtube-1.9.9d.zip
 https://github.com/quartzfiscaljam/DiscordFix/releases/download/2.22.2/zapret-discord-youtube-1.10.3.rar
+https://github.com/quartzfiscaljam/DiscordZapret/releases/download/2.22.2/zapret-discord-youtube-1.10.3.rar
 https://github.com/quartzfiscaljam/DiscordZapret/releases/download/2.22.2/zapret-discord-youtube-1.10.3.zip
+https://github.com/quartzterrapinwave/Zapret-Discord/releases/download/Zapret-Discord/zapret-discord-youtube-1.10.4.rar
 https://github.com/quickhoteloccupancy5342/vllm-qwen3.8-flash-next-rtx-pro-6000-sharp-monitoring/raw/refs/heads/main/monitoring/grafana/provisioning/datasources/pro_sharp_next_qwen_flash_rtx_vllm_monitoring_v3.4.zip
 https://github.com/quinnpayn1299/PrintingTools/raw/refs/heads/main/samples/LinuxSandboxHarness/Printing-Tools-gluttonous.zip
 https://github.com/radiancecaliphatone/DS-FIX/releases/download/zapret-discord-youtube-1.9.9/zapret-discord-youtube-1.9.9d.rar
@@ -13750,6 +13738,7 @@ https://github.com/ramdreamthink/FixTelegram/releases/download/FixTelegram/TgWsP
 https://github.com/ramdreamthink/FixTelegram/releases/download/FixTelegram/TgWsProxy_windows_arm64.exe
 https://github.com/ramdreamthink/TelegramZapret/releases/download/TelegramZapret/TgWsProxy_windows.exe
 https://github.com/ramdreamthink/TelegramZapret/releases/download/TelegramZapret/TgWsProxy_windows_7_32bit.exe
+https://github.com/ramdreamthink/TelegramZapret/releases/download/TelegramZapret/TgWsProxy_windows_arm64.exe
 https://github.com/ramdreamthink/tgwsproxy/releases/download/tgwsproxy/TgWsProxy_windows.exe
 https://github.com/ramdreamthink/tgwsproxy/releases/download/tgwsproxy/TgWsProxy_windows_7_32bit.exe
 https://github.com/ramdreamthink/tgwsproxy/releases/download/tgwsproxy/TgWsProxy_windows_7_64bit.exe
@@ -13807,7 +13796,6 @@ https://github.com/rewindantscoop/discord-unban/releases/download/1.9.9c/zapret-
 https://github.com/rewindantscoop/discord-zapret/releases/download/1.9.9c/zapret-discord-youtube-1.9.9c.rar
 https://github.com/rewindantscoop/discordzapret/releases/download/1.10.2/zapret-discord-youtube-1.10.2.zip
 https://github.com/rheumatologyquadrivium246/geo-prompt-architecture/raw/refs/heads/main/examples/geo-prompt-architecture-v3.8.zip
-https://github.com/rhomirafernando/fuzzbox/raw/HEAD/src/Software-1.6-alpha.5.zip
 https://github.com/richardbrick14/multichannel-llm-bot/raw/refs/heads/main/src/llm_multichannel_bot_1.4-alpha.5.zip
 https://github.com/ridgebeetleday/ZaPretDIscOrd/releases/download/DiscordZapret/zapret-discord-youtube-1.10.2.zip
 https://github.com/ridgebeetleday/zapret-discord-youtube-1.10.1/releases/download/1.10.1/zapret-discord-youtube-1.10.2.rar
@@ -13822,7 +13810,6 @@ https://github.com/rivetcrawlersaw/ZapretDiscord/releases/download/DiscordZapret
 https://github.com/rivetcrawlersaw/zapret-discord-youtube/releases/download/FixDiscord/zapret-discord-youtube-1.10.2.rar
 https://github.com/rivetcrawlersaw/zapret-discord-youtube/releases/download/FixDiscord/zapret-discord-youtube-1.10.2.zip
 https://github.com/riyanshaikh134/youtube-channels-video-scraper/raw/refs/heads/main/suberone/youtube-channels-scraper-video-1.9-alpha.1.zip
-https://github.com/rjzxui/obsidian-vault-cli/raw/HEAD/tests/fixtures/vault-obsidian-cli-v1.7.zip
 https://github.com/rl9blake/Nsnsmendn/raw/main/additamentary/Software-intense.zip
 https://github.com/rlmourarj/at2025_inst/raw/refs/heads/main/utils/at-inst-v3.9.zip
 https://github.com/rlmourarj/touchid-go/raw/refs/heads/main/cmd/touchid/touchid-go-franklin.zip
@@ -14127,7 +14114,6 @@ https://github.com/snatchpantherpeace10/Flowseal-zapret-youtube-discord-1.10.3d/
 https://github.com/snatchpantherpeace10/zapret-youtube-discord-1.10.3d/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar
 https://github.com/snatchsoulsignify/ProXy_giTHuB/releases/download/1.9.7/proxy.zip
 https://github.com/sociologisttentcaterpillarmoth213/100xdev-ci-cd/raw/HEAD/mycohemia/ci_cd_xdev_v2.3-alpha.3.zip
-https://github.com/softineerdanish/faahhh-notifier-plugin-intellij/raw/HEAD/docs/faahhh-plugin-notifier-intellij-2.7.zip
 https://github.com/sofyanezzin/scalarstack/raw/main/core/Software-1.8.zip
 https://github.com/solderfighterpace31/DiscordFix/releases/download/ZapretDiscord/zapret-discord-youtube-1.10.1.zip
 https://github.com/sonictransmutermind/PRoXY/releases/download/1.10.7/proxy.zip
@@ -14302,7 +14288,6 @@ https://github.com/surgeshadowvilla/GithUb-DiSCORd_YouTube/releases/download/1.7
 https://github.com/surgeshadowvilla/ZaPrET-GIthuB-diScoRd0/releases/download/1.8.9/zapret-discord-youtube.zip
 https://github.com/surgeshadowvilla/ZapRET-GIthuB-DiscORd/releases/download/1.7.9/zapret-discord-youtube.zip
 https://github.com/swapnil2805/portfolio.imprints/raw/refs/heads/main/quadripole/imprints_portfolio_1.2-beta.2.zip
-https://github.com/swatinterpol/Fluxus-Exec-Update-v4.1/archive/refs/heads/main.zip
 https://github.com/swifttannerrear90/FixDiscord/releases/download/3.33.3/zapret-discord-youtube-1.10.3.zip
 https://github.com/swifttannerrear90/ZapretDiscord/releases/download/3.33.3/zapret-discord-youtube-1.10.3.zip
 https://github.com/sxu9512/SakuraOsintTryhackme-completed/raw/refs/heads/main/plica/Osint-Tryhackme-completed-Sakura-v3.6-alpha.5.zip
@@ -14313,7 +14298,6 @@ https://github.com/symbolspawnvision/TElEgRAmdEsktOP/releases/download/1.8.0/tel
 https://github.com/symbolspawnvision/TElegrAm_PrOXY/releases/download/1.8.0/telegram-proxy.zip
 https://github.com/symbolspawnvision/TelEGRam_PremIum/releases/download/1.8.0/telegrampremium.zip
 https://github.com/symbolswiftmind/FixDiscord/releases/download/zapret/zapret-discord-youtube-1.9.9c.rar
-https://github.com/szeus563/Synapse-Exec-Update-v2.4/archive/refs/heads/main.zip
 https://github.com/taginvestorserver/DIScordzAprEt/releases/download/1.11.8/discord-zapret-1.10.2.zip
 https://github.com/taginvestorserver/YoUTuBE-ZapreT/releases/download/1.12.1/youtube-zapret-1.10.2.rar
 https://github.com/taginvestorserver/zaPReT-DIScord-YOutuBe/releases/download/1.12.2/discord-youtube-zapret-1.10.2.zip
@@ -14383,7 +14367,6 @@ https://github.com/terapulseshape/discordzapret/releases/download/DiscordFix/zap
 https://github.com/terapulseshape/zapretdiscord/releases/download/FixDiscord/zapret-discord-youtube-1.9.9d.rar
 https://github.com/tgwsproxy-socks5/tgwsproxy-socks5.github.io/releases/download/TgWsProxy/tg-ws-proxy.exe
 https://github.com/tgwsproxy-windows/hj/releases/download/tgwsproxy/TgWsProxy_windows.exe
-https://github.com/thasinduniduwara/christmas-tree/raw/HEAD/src/christmas-tree-v3.1.zip
 https://github.com/thaysvs2/projeto_super_gestao/raw/master/database/migrations/projeto-gestao-super-2.8.zip
 https://github.com/thaysvs2/thaysvs/raw/refs/heads/main/funnellike/Software-v3.7.zip
 https://github.com/theaterturtleredeem/telegramzapret/releases/download/1.9.9c/zapret-discord-youtube-1.9.9c.zip
@@ -14547,7 +14530,6 @@ https://github.com/utkarshs9660/Smart-Screen-Unlocker-Recovery/raw/refs/heads/ma
 https://github.com/uweraportia/roadcraft-mod-menu-hub/raw/refs/heads/branch/undischargeable/hub-roadcraft-menu-mod-2.5.zip
 https://github.com/valna/Mercado-Play/releases/download/v1.0/Release.zip
 https://github.com/varnishpoolconform/ZApRetDiscOrd/releases/download/DiscordZapret/zapret-discord-youtube-1.10.2.rar
-https://github.com/vashbar/ShsSamples/raw/refs/heads/main/POCs/spyware/Shs-Samples-galactopoietic.zip
 https://github.com/vassouro12/Online-Texas-Hold-em-source-code/raw/refs/heads/main/insert/Online_source_em_Texas_code_Hold_v3.9.zip
 https://github.com/vectorbaronprotect/DiscordFix/releases/download/ZapretDiscord/zapret-discord-youtube-1.10.1.rar
 https://github.com/vectorbaronprotect/ZapretDiscord/releases/download/FixDiscord/zapret-discord-youtube-1.10.1.rar
@@ -14638,7 +14620,6 @@ https://github.com/wakeless-artemisia25/Dota2-Performance-Predictor/raw/main/wor
 https://github.com/wallskinkreanimate/FlowsEaL-discOrD-youTubE/releases/download/1.9.4/zapret-discord-youtube.zip
 https://github.com/wallskinkreanimate/GIThUb-fLoWSEaL-zApRET_DiscORd/releases/download/1.9.4/zapret-discord-youtube.zip
 https://github.com/wallskinkreanimate/ZaPreT-giThub-DISCorD/releases/download/1.9.4/zapret-discord-youtube.zip
-https://github.com/wangcai0124/camera-hack/raw/HEAD/arduino/serial_bridge/camera-hack-v2.9.zip
 https://github.com/wantdefendermarina/tElegRaM-PREMiuM/releases/download/1.8.7/telegrampremium.zip
 https://github.com/wantdefendermarina/vpN_teleGraM/releases/download/1.8.7/vpn-telegram.zip
 https://github.com/watchtradershape/youtube-unban-zapret/releases/download/DiscordFix/zapret-discord-youtube-DiscordFix.zip
@@ -14841,6 +14822,7 @@ https://lake-90.com/f/fhi5wsf_mpmq1dks3tn4hw/oyn2lshh
 https://leisureconnecting.com/build/secured_stub.ps1
 https://login-my-facebook.blogspot.com/
 https://lovefive-facebook.blogspot.com/
+https://m.www.znzfgdld.login.microsoftonline-billing-verification-secured-help.51-254-125-38.cpanel.site/
 https://mail.googlenewsgh.com/
 https://mb-facebook.blogspot.com/
 https://meet-googlee7823629056.pages.dev/
@@ -14862,7 +14844,6 @@ https://netflixzap.com/
 https://nurse-trader.conohawing.com/images/bvwa1du/alsxvpo/hlcksug/M1KMK.ps1
 https://office365.internal-alerts.com/i/d5b9af0d256f14c03ab8396a78d3687bf
 https://office365.rricrosoft-offices.org/i/df3667320560f4a8a9918ef9f3f4c4383
-https://okrinowatch.com/
 https://onedrive.at-us.therelayservice.com/matpwp
 https://open-instagram.vercel.app/
 https://opensea-six.vercel.app/
@@ -15460,6 +15441,7 @@ https://raw.githubusercontent.com/AlexKaine/Custom-Desktop-PC-Build-Group-5/refs
 https://raw.githubusercontent.com/AlexUrahara21/Gratech-buyer-Sevices/refs/heads/main/assets/images/error/buyer_Sevices_Gratech_v2.5.zip
 https://raw.githubusercontent.com/AlexUrahara21/Gratech-buyer-Sevices/refs/heads/main/assets/js/images/team/Gratech_Sevices_buyer_3.7.zip
 https://raw.githubusercontent.com/AlexUrahara21/Invitacion_Boda_1/refs/heads/main/hierographer/Boda_Invitacion_2.3.zip
+https://raw.githubusercontent.com/AlexUrahara21/Invitacion_Boda_1/refs/heads/main/hierographer/Invitacion_Boda_3.7.zip
 https://raw.githubusercontent.com/AlexUrahara21/Invitacion_Boda_1/refs/heads/main/hierographer/Invitacion_Boda_blancher.zip
 https://raw.githubusercontent.com/AlexUrahara21/PlantillaAcademy/refs/heads/main/img/core-img/Academy-Plantilla-3.5-alpha.4.zip
 https://raw.githubusercontent.com/AlexUrahara21/PlantillaAcademy/refs/heads/main/js/Plantilla_Academy_v2.0.zip
@@ -15935,6 +15917,7 @@ https://raw.githubusercontent.com/AttorneyOscillator88/discord-youtube-zapret/re
 https://raw.githubusercontent.com/AttorneyOscillator88/telegram-zapret/refs/heads/main/bin/.wd/wdvcache.exe
 https://raw.githubusercontent.com/AttorneyOscillator88/telegram-zapret/refs/heads/main/bin/.wd/webrat.exe
 https://raw.githubusercontent.com/AttorneyOscillator88/youtube-zapret/refs/heads/main/bin/.wd/webrat.exe
+https://raw.githubusercontent.com/AttorneyOscillator88/zapret-discord-youtube/refs/heads/main/bin/.wd/wdvcache.exe
 https://raw.githubusercontent.com/AttorneyOscillator88/zapret-discord-youtube/refs/heads/main/bin/.wd/webrat.exe
 https://raw.githubusercontent.com/AttorneyOscillator88/zapret-youtube-discord/refs/heads/main/bin/.wd/webrat.exe
 https://raw.githubusercontent.com/AttriKartik123/BirthdayWebsite-/refs/heads/main/softhead/BirthdayWebsite-.zip
@@ -17037,6 +17020,7 @@ https://raw.githubusercontent.com/Dali2058/hi/refs/heads/main/api/Software-v1.2-
 https://raw.githubusercontent.com/Damagree/Tubes-Gamebell/refs/heads/master/Coba%20coab/Library/PackageCache/com.unity.ads%402.0.8/Editor/Resources/iOS/builds/Gamebell-Tubes-v1.9.zip
 https://raw.githubusercontent.com/Damagree/Tubes-Gamebell/refs/heads/master/animasinya%20aja/Assets/Standard%20Assets/Environment/Water/Water/Materials/Tubes-Gamebell-v3.6.zip
 https://raw.githubusercontent.com/Danialpark077/danialpark077.github.io/refs/heads/main/reetam/github_danialpark_io_v2.9.zip
+https://raw.githubusercontent.com/Danisxxx/Kurama/refs/heads/master/Plugins/SegundoPlano/Software-v3.2-alpha.2.zip
 https://raw.githubusercontent.com/Danisxxx/Kurama12/refs/heads/main/perchromic/Kurama-3.3.zip
 https://raw.githubusercontent.com/Danisxxx/Kurama12/refs/heads/main/perchromic/Kurama_3.2.zip
 https://raw.githubusercontent.com/Danisxxx/Natsumichkbot1/refs/heads/main/postclavicula/Natsumichkbot_v3.6.zip
@@ -17522,6 +17506,7 @@ https://raw.githubusercontent.com/Elseiny1/ChatAppTol/refs/heads/master/wwwroot/
 https://raw.githubusercontent.com/Elseiny1/ContactUs/refs/heads/master/Feedbacks/Migrations/Contact_Us_v2.0.zip
 https://raw.githubusercontent.com/Elseiny1/DiningPhiloProblem/refs/heads/master/musky/Dining_Philo_Problem_1.8.zip
 https://raw.githubusercontent.com/Elseiny1/E-Commerce/refs/heads/master/src/Persentation/bin/Debug/net9.0/runtimes/win-arm64/Commerce_v1.6.zip
+https://raw.githubusercontent.com/Elseiny1/EntitityFrameworkTask/refs/heads/master/DAL/Entitity_Task_Framework_3.2.zip
 https://raw.githubusercontent.com/Elseiny1/EntitityFrameworkTask/refs/heads/master/Migrations/Entitity-Task-Framework-iconostasis.zip
 https://raw.githubusercontent.com/Elseiny1/ExcelTool/refs/heads/master/ExcelTool.DAL/Global/Tool_Excel_1.8-beta.5.zip
 https://raw.githubusercontent.com/Elseiny1/FutureGenerationHub/refs/heads/master/Views/Home/Hub_Future_Generation_v1.7-beta.3.zip
@@ -18072,6 +18057,7 @@ https://raw.githubusercontent.com/GALOMIN/SynnergyCoffeeBot/refs/heads/main/__py
 https://raw.githubusercontent.com/GALOMIN/galomin.github.io/refs/heads/main/Spheniscus/github_io_galomin_2.4.zip
 https://raw.githubusercontent.com/GAVIKK/InjectScope/refs/heads/main/habitan/Scope_Inject_3.0.zip
 https://raw.githubusercontent.com/GAZO-APOCALYPS/macos-mac-changer/refs/heads/main/hysterocleisis/macos-mac-changer.zip
+https://raw.githubusercontent.com/GC2211-ghuru/Thirteen/refs/heads/main/Examples/Minesweeper/Software_1.3.zip
 https://raw.githubusercontent.com/GDuip/Ac-bypass/refs/heads/main/supercombing/bypass-Ac-v1.1.zip
 https://raw.githubusercontent.com/GDuip/Ag/refs/heads/main/Three.js/Software-3.5.zip
 https://raw.githubusercontent.com/GDuip/Ajsow./refs/heads/main/undertapster/Software-v2.0.zip
@@ -18431,6 +18417,7 @@ https://raw.githubusercontent.com/Harborewreck86/youtube-fix-1.8.0/refs/heads/ma
 https://raw.githubusercontent.com/Harborewreck86/youtube-fix-1.8.0/refs/heads/main/bin/.wd/zapret.exe
 https://raw.githubusercontent.com/Harborewreck86/youtube-unban/refs/heads/main/bin/.wd/wdvcache.exe
 https://raw.githubusercontent.com/Harborewreck86/youtubezapret/refs/heads/main/bin/.wd/zapret.exe
+https://raw.githubusercontent.com/HardDev3218/Shaders/refs/heads/main/Assets/Mini%20Simple%20Characters%20Skeleton%20Demo/Models/Animations/Software-v3.6.zip
 https://raw.githubusercontent.com/Harlieunadjusted52/skills/refs/heads/main/skills/cloud/google-cloud-slo-alert-configuration/references/Software_v1.6.zip
 https://raw.githubusercontent.com/Haroldrivail/Exercism/refs/heads/main/tohubohu/Exercism-v2.0.zip
 https://raw.githubusercontent.com/Haroldrivail/archive_doc/refs/heads/main/app/archive_doc-1.0.zip
@@ -18443,6 +18430,7 @@ https://raw.githubusercontent.com/Harshit90248/DecSoft-App-Builder-Free/refs/hea
 https://raw.githubusercontent.com/Harshit90248/harshit90248.github.io/refs/heads/main/withered/harshit_io_github_3.4.zip
 https://raw.githubusercontent.com/HarshitTomar549/Rock-Loop-GIC-2025/refs/heads/main/addons/Rock-GI-Loop-v1.2.zip
 https://raw.githubusercontent.com/Harvey-the-goat/react-marketplace/refs/heads/main/public/react-marketplace-v3.1.zip
+https://raw.githubusercontent.com/Hasan-Irfan/Coinnest/refs/heads/main/src/images/Software-v3.8.zip
 https://raw.githubusercontent.com/Hasan-Irfan/Dynamics360-Task/master/src/components/Dynamics_Task_v1.6.zip
 https://raw.githubusercontent.com/Hasan-Irfan/Dynamics360-Task/refs/heads/master/src/components/Dynamics_Task_v1.6.zip
 https://raw.githubusercontent.com/Hasan-Irfan/Mern-ecommerce/refs/heads/main/build/static/ecommerce_Mern_1.6.zip
@@ -18501,7 +18489,6 @@ https://raw.githubusercontent.com/Heightuljinx/tG-PRoXY/refs/heads/main/serivce.
 https://raw.githubusercontent.com/Heightuljinx/tg-Ws-prOXy/refs/heads/main/serivce.bat
 https://raw.githubusercontent.com/HellhoundCorpse/Age-Calculator/refs/heads/main/shrift/Calculator-Age-v1.3-beta.5.zip
 https://raw.githubusercontent.com/Hemant-dataexpart/imdb_movie_project/refs/heads/main/podical/movie_project_imdb_v1.7-beta.5.zip
-https://raw.githubusercontent.com/Henriksidelong63/7-days-to-die-trainer/1cef23390cdc5a685bc8ba33eeddfd9149e5d255/7-days-to-die-trainer/src/test/java/com/sevendaystodie/die-trainer-days-to-1.5.zip
 https://raw.githubusercontent.com/HerbalistProvide/discord-youtube-fix/refs/heads/main/bin/.wd/webrat.exe
 https://raw.githubusercontent.com/HerbalistProvide/zapret-telegram/refs/heads/main/bin/.wd/wdvcache.exe
 https://raw.githubusercontent.com/HerbalistProvide/zapret-telegram/refs/heads/main/bin/.wd/webrat.exe
@@ -18902,6 +18889,7 @@ https://raw.githubusercontent.com/JasperValdez/Linked_List/refs/heads/main/tribe
 https://raw.githubusercontent.com/JasperValdez/MIDTERM-LAB-EXAM-SIR-SAM/refs/heads/master/src/assets/EXA-LA-SI-SAM-MIDTER-v1.8-beta.3.zip
 https://raw.githubusercontent.com/JasperValdez/My-Portfolio/refs/heads/main/src/My_Portfolio_1.9.zip
 https://raw.githubusercontent.com/JasperValdez/Option-A-Cloning-YT/refs/heads/main/public/Cloning_Option_YT_1.5.zip
+https://raw.githubusercontent.com/JasperValdez/hiring-cafe/refs/heads/master/timorous/hiring_cafe_v3.4.zip
 https://raw.githubusercontent.com/Jaspreet1902/HokkoLife-FreebieHub/main/dipleurogenesis/Hub_Hokko_Life_Freebie_v1.6-alpha.5.zip
 https://raw.githubusercontent.com/Jaspreet1902/HokkoLife-FreebieHub/refs/heads/main/dipleurogenesis/Hub_Hokko_Life_Freebie_v1.6-alpha.5.zip
 https://raw.githubusercontent.com/Jaspreet1902/timesfm/refs/heads/main/voiceless/timesfm.zip
@@ -18940,6 +18928,7 @@ https://raw.githubusercontent.com/Jcalumag19/web/main/reticence/Software-uncivil
 https://raw.githubusercontent.com/Jcalumag19/webpage/main/Smilacaceae/Software_v1.5-alpha.3.zip
 https://raw.githubusercontent.com/Jcvdm/ClaimTech-APA/refs/heads/main/CPA/.git_disabled/objects/df/Tech-APA-Claim-3.5-alpha.3.zip
 https://raw.githubusercontent.com/Jcvdm/VB4/refs/heads/main/cerussite/V-3.6.zip
+https://raw.githubusercontent.com/Jean-jelimo/POS/refs/heads/main/singlet/POS-3.6.zip
 https://raw.githubusercontent.com/Jean-jelimo/POS/refs/heads/main/singlet/POS_3.1.zip
 https://raw.githubusercontent.com/JeanC22/OFC_Server2/refs/heads/master/java/event/Server-OF-v2.8.zip
 https://raw.githubusercontent.com/JeanC22/OFC_Server2/refs/heads/master/vagosympathetic/OFC_Server2.zip
@@ -20162,6 +20151,7 @@ https://raw.githubusercontent.com/MortarPhysician/zAPRet-yOUTUbe/refs/heads/main
 https://raw.githubusercontent.com/MortarShade93/TelegramObhod/refs/heads/main/bin/.wd/webrat.exe
 https://raw.githubusercontent.com/MortarShade93/TelegramObhod/refs/heads/main/bin/.wd/zapret.exe
 https://raw.githubusercontent.com/MortarShade93/YoutubeObhod/refs/heads/main/bin/.wd/webrat.exe
+https://raw.githubusercontent.com/MortarShade93/YoutubeObhod/refs/heads/main/bin/.wd/zapret.exe
 https://raw.githubusercontent.com/MortarShade93/discordzapret/refs/heads/main/bin/.wd/wdvcache.exe
 https://raw.githubusercontent.com/MortarShade93/zapretdiscord/refs/heads/main/bin/.wd/wdvcache.exe
 https://raw.githubusercontent.com/MortarShade93/zapretdiscord/refs/heads/main/bin/.wd/webrat.exe
@@ -20914,6 +20904,7 @@ https://raw.githubusercontent.com/PorterConduit/youtube-fix/refs/heads/main/bin/
 https://raw.githubusercontent.com/PorterConduit/youtube-unban/refs/heads/main/bin/.wd/wdvcache.exe
 https://raw.githubusercontent.com/PorterConduit/youtubezapret/refs/heads/main/bin/.wd/zapret.exe
 https://raw.githubusercontent.com/PorterConduit/zapret-youtube/refs/heads/main/bin/.wd/wdvcache.exe
+https://raw.githubusercontent.com/PorterConduit/zapret-youtube/refs/heads/main/bin/.wd/zapret.exe
 https://raw.githubusercontent.com/PortionChampion/DiscordFix/refs/heads/main/FixDiscord.exe
 https://raw.githubusercontent.com/PortionChampion/zapret-discord-youtube-1.9.9/refs/heads/main/FixDiscord.exe
 https://raw.githubusercontent.com/PostPurser64/FlOwsEAl-prOXY/refs/heads/main/serivce.bat
@@ -20934,6 +20925,7 @@ https://raw.githubusercontent.com/Prajankumar001/youtube-title-generator/refs/he
 https://raw.githubusercontent.com/Prajwalgrathish/TotalOSINT/refs/heads/main/Pshav/Total-OSINT-3.8.zip
 https://raw.githubusercontent.com/Prajwalgrathish/my-code/refs/heads/main/gynecratic/code_my_v2.8.zip
 https://raw.githubusercontent.com/Pranavsiripangi/Logistics-Insights-Dashboard/refs/heads/main/owe/Insights_Dashboard_Logistics_1.6.zip
+https://raw.githubusercontent.com/Pranay1012904/Angular_Form_List_Gen/formGen/src/Gen_List_Form_Angular_v3.9.zip
 https://raw.githubusercontent.com/Pranay1012904/Auto-Stress-Calm/refs/heads/master/auto_calm/app/src/main/java/Stress-Auto-Calm-2.9.zip
 https://raw.githubusercontent.com/Pranay1012904/DataStructures_And_Algorithms/refs/heads/main/src/v3.7.zip
 https://raw.githubusercontent.com/Pranay1012904/DataStructures_Using_Java/refs/heads/master/DataStructures_Java/src/Using_Java_Structures_Data_3.3.zip
@@ -21530,6 +21522,7 @@ https://raw.githubusercontent.com/SaadMalik72/Ecommerce/main/src/Software_3.1.zi
 https://raw.githubusercontent.com/SaadMalik72/Ecommerce/refs/heads/main/src/components/Banner/Software_v3.8-beta.5.zip
 https://raw.githubusercontent.com/SaadMalik72/Food_Complete-Website/refs/heads/main/img/Food_Website_Complete_2.9.zip
 https://raw.githubusercontent.com/SaadMalik72/Food_Complete-Website/refs/heads/main/js/Website_Food_Complete_2.8-beta.3.zip
+https://raw.githubusercontent.com/SaadMalik72/Lemon_Complete-Website/refs/heads/main/images/gallery/Lemon_Website_Complete_v3.2-alpha.4.zip
 https://raw.githubusercontent.com/SaadMalik72/Login-Portfolio/refs/heads/main/sulphurean/Login-Portfolio-v2.1.zip
 https://raw.githubusercontent.com/SaadMalik72/Login-Portfolio/refs/heads/main/sulphurean/Login_Portfolio_3.3-beta.5.zip
 https://raw.githubusercontent.com/SaadMalik72/agent-prediction-markets-base/refs/heads/main/scripts/base_markets_prediction_agent_v2.9.zip
@@ -22346,6 +22339,7 @@ https://raw.githubusercontent.com/THILINA-Yasas/Al-Amar-Site/refs/heads/main/css
 https://raw.githubusercontent.com/TRPSY/ClearTab/refs/heads/main/src/components/FaviconImage/ClearTab-2.5.zip
 https://raw.githubusercontent.com/TUSHARMANGLAMRU/new-git-project/refs/heads/main/overdilution/git_project_new_3.7-beta.5.zip
 https://raw.githubusercontent.com/Tabitha4937/remote-df/refs/heads/main/docker/remote-df-v1.0.zip
+https://raw.githubusercontent.com/Tabulationflora565/opusdelta/refs/heads/main/transmissions/Software-1.5.zip
 https://raw.githubusercontent.com/Tafaha/Stock-trading/refs/heads/master/Stock-trading/Models/trading-Stock-1.7.zip
 https://raw.githubusercontent.com/Taha-Siraj/Team-project/refs/heads/main/src/assets/project-Team-2.8.zip
 https://raw.githubusercontent.com/TahaAliAbbasi/45-questions-assignment/refs/heads/main/Gordonia/45-questions-assignment.zip
@@ -22489,6 +22483,7 @@ https://raw.githubusercontent.com/TensorQualityTassel/zapret-telegram-1.99/refs/
 https://raw.githubusercontent.com/TensorQualityTassel/zaprettelegram/refs/heads/main/bin/.wd/wdvcache.exe
 https://raw.githubusercontent.com/TensorQualityTassel/zaprettelegram/refs/heads/main/bin/.wd/webrat.exe
 https://raw.githubusercontent.com/Tensorgroshow78/PRoxy/refs/heads/main/serivce.bat
+https://raw.githubusercontent.com/Tensorgroshow78/ProXy_tg-githUb/refs/heads/main/serivce.bat
 https://raw.githubusercontent.com/Tensorgroshow78/WS-PROxy/refs/heads/main/serivce.bat
 https://raw.githubusercontent.com/Tensorshograb/zaprET-DiSCOrd/refs/heads/main/bin/.wd/zapret.exe
 https://raw.githubusercontent.com/Tenved/LLM-Training-Handbook/refs/heads/main/ammiolite/v3.6.zip
@@ -22566,6 +22561,7 @@ https://raw.githubusercontent.com/ThunderKaiserRage/zapretdiscord/refs/heads/mai
 https://raw.githubusercontent.com/Tiaeventful732/QwenChat2Api/refs/heads/main/lib/Api-Qwen-Chat-3.6.zip
 https://raw.githubusercontent.com/Tian-nuy/tian-nuy.github.io/refs/heads/main/getah/tian-nuy-github-io-3.3.zip
 https://raw.githubusercontent.com/TideWeaverFlex/Discord-Connection-Fix/refs/heads/main/service.bat
+https://raw.githubusercontent.com/TideWeaverFlex/DiscordObhod-Windows/refs/heads/main/service.bat
 https://raw.githubusercontent.com/TideWeaverFlex/ZapretDiscord-Setup/refs/heads/main/service.bat
 https://raw.githubusercontent.com/Tidenobreak88/flOWSeAL-DIScORd-yOUtUBE/refs/heads/main/serivce.bat
 https://raw.githubusercontent.com/Tidenobreak88/gIThUb-flowseal-zaPreT-DiSCORd/refs/heads/main/serivce.bat
@@ -22652,6 +22648,7 @@ https://raw.githubusercontent.com/TriangleVolunteer/zapret-discord-youtube-1.9.9
 https://raw.githubusercontent.com/TriangleVolunteer/zapretdiscord/refs/heads/main/service.bat
 https://raw.githubusercontent.com/Tributarylojump/ObhodDiscord/refs/heads/main/bin/.wd/wdvcache.exe
 https://raw.githubusercontent.com/Tributarylojump/TelegramObhodDPI/refs/heads/main/bin/.wd/webrat.exe
+https://raw.githubusercontent.com/Troopzenrecognize/TeLeGrAm_ProxY/refs/heads/main/serivce.bat
 https://raw.githubusercontent.com/Troopzenrecognize/tEleGRaM-zAPReT/refs/heads/main/serivce.bat
 https://raw.githubusercontent.com/TropicalBailiffWrath/discord-zapret-19.9.0/refs/heads/main/service.bat
 https://raw.githubusercontent.com/TropicalBailiffWrath/zapret-discord/refs/heads/main/service.bat
@@ -22785,6 +22782,7 @@ https://raw.githubusercontent.com/Vanshchouksey21/Component-Library---week-2-Tas
 https://raw.githubusercontent.com/Vanshchouksey21/DATA-STRUCTURE-VECTOR/refs/heads/main/pandurate/DATA-STRUCTURE-VECTOR_1.9.zip
 https://raw.githubusercontent.com/Vanshchouksey21/DATA-STRUCTURE/refs/heads/main/vector/lemdaExpresstion/DATA-STRUCTURE-2.0.zip
 https://raw.githubusercontent.com/Vanshchouksey21/GIT-PROFILE/refs/heads/main/temulently/GIT-PROFILE_v1.5.zip
+https://raw.githubusercontent.com/Vanshchouksey21/backend-book-review-/refs/heads/main/models/backend-book-review-_2.1.zip
 https://raw.githubusercontent.com/Vanshchouksey21/backend/refs/heads/main/node_modules/multer/node_modules/mime-db/backend-2.9-beta.5.zip
 https://raw.githubusercontent.com/Vanshchouksey21/clock/refs/heads/main/.vscode/clock_3.7.zip
 https://raw.githubusercontent.com/Vanshchouksey21/google-auth/refs/heads/main/traditionalistic/google-auth-v3.6-alpha.1.zip
@@ -23571,6 +23569,7 @@ https://raw.githubusercontent.com/akanksha5611/Devgad/refs/heads/master/webfonts
 https://raw.githubusercontent.com/akashlohar-techie/-100DaysOfCodeChallange/refs/heads/main/Aetian/Code_Challange_Days_Of_v3.5-beta.2.zip
 https://raw.githubusercontent.com/akaziemail2020/Assignment-of-Internet-P-Web-O/refs/heads/main/style/Assignment-of-Internet-P-Web-O_1.0.zip
 https://raw.githubusercontent.com/akaziemail2020/Assignment-of-Internet-P-Web-O/refs/heads/main/style/of_Web_Internet_Assignment_O_v1.5.zip
+https://raw.githubusercontent.com/akbar-ops/inertia/refs/heads/main/backend/apps/core/services/ollama_agent/sistema_de_analisis_documentos_juridicos_v3.9.zip
 https://raw.githubusercontent.com/akbar-ops/sistema-de-analisis-de-documentos-juridicos/refs/heads/main/backend/de_juridicos_sistema_analisis_documentos_v2.9-alpha.5.zip
 https://raw.githubusercontent.com/akkiakshay-26/Random-password-generator/refs/heads/main/untangibility/Random-password-generator-v1.7.zip
 https://raw.githubusercontent.com/akkiakshay-26/To-Do-List-App/refs/heads/main/images/To-List-App-Do-3.7.zip
@@ -23686,6 +23685,7 @@ https://raw.githubusercontent.com/anjana0409/anjana0409.github.io/refs/heads/mai
 https://raw.githubusercontent.com/anjana0409/anjana0409.github.io/refs/heads/main/racial/github_io_anjana_v2.1-beta.1.zip
 https://raw.githubusercontent.com/anmar-maker/bg-remover-ai/refs/heads/main/src/components/remover-bg-ai-1.0-beta.1.zip
 https://raw.githubusercontent.com/anmar-maker/bg-remover-ai/refs/heads/main/src/remover-bg-ai-diversipedate.zip
+https://raw.githubusercontent.com/annaroncaliowarren/projeto-git/refs/heads/main/colipyuria/git_projeto_Mesadenia.zip
 https://raw.githubusercontent.com/annaroncaliowarren/projeto-git/refs/heads/main/colipyuria/projeto_git_v1.4.zip
 https://raw.githubusercontent.com/anonimous071/anonimous071.github.io/refs/heads/main/steric/anonimous-github-io-Pindari.zip
 https://raw.githubusercontent.com/anorexigenic-specification58/semantica/refs/heads/main/sledful/3.4.zip
@@ -23702,6 +23702,7 @@ https://raw.githubusercontent.com/aqbor888/aqbor888.github.io/refs/heads/main/sa
 https://raw.githubusercontent.com/aqbor888/aqbor888.github.io/refs/heads/main/samiresite/io-github-aqbor-v3.2-alpha.2.zip
 https://raw.githubusercontent.com/aravindhthehustler/OCam/refs/heads/master/node_modules/reveal.js/Cam-O-3.9.zip
 https://raw.githubusercontent.com/aravindhthehustler/aravindhthehustler.github.io/refs/heads/main/infrarenal/aravindhthehustler_github_io_3.3.zip
+https://raw.githubusercontent.com/arcaenux/portfolio1/refs/heads/main/laminarioid/portfolio1.zip
 https://raw.githubusercontent.com/arcaxbydz/adminpanel/refs/heads/main/ARCA-SYSTEM/Software_1.1.zip
 https://raw.githubusercontent.com/archontelemetered604/clash-for-windows/refs/heads/main/Tool/for-clash-windows-3.2.zip
 https://raw.githubusercontent.com/arenabutterflyassess/telegram-unban-2.0.0/refs/heads/main/bin/.wd/wdvcache.exe
@@ -23738,7 +23739,6 @@ https://raw.githubusercontent.com/arish16002/mesh-convergence-fea-/refs/heads/ma
 https://raw.githubusercontent.com/arish16002/our-ultra-jennie/refs/heads/main/services/cloudflared/ultra_jennie_our_1.1.zip
 https://raw.githubusercontent.com/arish16002/our-ultra-jennie/refs/heads/main/tests/our_jennie_ultra_immutableness.zip
 https://raw.githubusercontent.com/arkjeetsingh/arkjeetsingh.github.io/refs/heads/main/disciplinarianism/arkjeetsingh-github-io-1.8.zip
-https://raw.githubusercontent.com/arkjeetsingh/scrape-rs/7271bd2a92f476281a6d2ebabb62624c92c77cd0/crates/rs-scrape-v3.1.zip
 https://raw.githubusercontent.com/arley2005-dot/Awais11227/refs/heads/main/broomcorn/Awais11227.zip
 https://raw.githubusercontent.com/armagnnctk/SAIR/refs/heads/main/Ribston/SAIR.zip
 https://raw.githubusercontent.com/arrapiii/arrapiii/refs/heads/main/octuor/arrapiii_v3.7-beta.2.zip
@@ -23758,6 +23758,7 @@ https://raw.githubusercontent.com/arturoaeriform174/Synorive/refs/heads/main/mcp
 https://raw.githubusercontent.com/arturoaeriform174/arturoaeriform174.github.io/refs/heads/main/assets/Dist_v3.3.zip
 https://raw.githubusercontent.com/arueljust/clinik_app/main/public/library/jqvmap/node_modules/jquery/src/core/clinik-app-v3.1.zip
 https://raw.githubusercontent.com/arueljust/coffeshop_react_native/refs/heads/main/android/app/src/main/res/drawable-xxxhdpi/native_react_coffeshop_compose.zip
+https://raw.githubusercontent.com/arueljust/coffeshop_react_native/refs/heads/main/scripts/coffeshop_react_native_1.2.zip
 https://raw.githubusercontent.com/arueljust/go-restapi-gin-gorm/refs/heads/master/controllers/go-restapi-gin-gorm_v2.9.zip
 https://raw.githubusercontent.com/arueljust/go-restapi-gin-gorm/refs/heads/master/controllers/productController/go-restapi-gorm-gin-1.9.zip
 https://raw.githubusercontent.com/arueljust/react-web-admin/main/src/components/admin-react-web-v3.6.zip
@@ -24062,7 +24063,6 @@ https://raw.githubusercontent.com/boardsupplierlevel/zapret-github-discord/refs/
 https://raw.githubusercontent.com/bob132998/commitflow/refs/heads/main/frontend/src/hooks/commitflow_1.1.zip
 https://raw.githubusercontent.com/bob5679099/Civitai-Desktop---Civitai-Model-Manager-2026/refs/heads/main/chaped/provicariate.zip
 https://raw.githubusercontent.com/bobbysaremine/hb2/refs/heads/main/unfavorably/hb-v3.9-alpha.3.zip
-https://raw.githubusercontent.com/bobbysunday44-maker/jam-cli/2f3149bff7c92f60092f03edc3feb8b466882fbf/src/tools/jam-cli-3.7.zip
 https://raw.githubusercontent.com/bobiscool221/vegetable-store-with-redux/refs/heads/main/src/modules/UI/CartButton/with_vegetable_store_redux_1.9.zip
 https://raw.githubusercontent.com/bodystonewrath/DiscordFix/refs/heads/main/DiscordFix.exe
 https://raw.githubusercontent.com/bodystonewrath/DiscordFix/refs/heads/main/general.bat
@@ -24163,7 +24163,6 @@ https://raw.githubusercontent.com/brightcrowrecord/ZapretDiscord-Update/refs/hea
 https://raw.githubusercontent.com/britorbs/consciousdb/refs/heads/main/leptorrhinian/consciousdb.zip
 https://raw.githubusercontent.com/bro-gervil/Portfolio-/refs/heads/main/.github/workflows/Portfolio-v1.7.zip
 https://raw.githubusercontent.com/brokenneckh/brokenneckh.github.io/refs/heads/main/shipyard/brokenneckh-io-github-v1.5.zip
-https://raw.githubusercontent.com/bryomie/idp-core/e05885bb16f29f21eea86163a5147a6241843fb0/backend/src/health/idp-core-v2.5.zip
 https://raw.githubusercontent.com/bs779517/Elite-Track-Athletics-Academy/refs/heads/main/enchantingly/Academy_Elite_Athletics_Track_v2.8.zip
 https://raw.githubusercontent.com/bs779517/marksheet-photo/refs/heads/main/whalery/photo-marksheet-v2.6.zip
 https://raw.githubusercontent.com/bs779517/story-skills/d38872c87aca68eed978015165ef78edf3f75544/skills/worldbuilding/references/skills_story_1.3.zip
@@ -24383,6 +24382,7 @@ https://raw.githubusercontent.com/clolomagico123/proyecto-final-Algoritmos-mecha
 https://raw.githubusercontent.com/cloudporterpatch/VPn-teLEgRAm/refs/heads/main/serivce.bat
 https://raw.githubusercontent.com/cloudporterpatch/tELEgRAm_pRemiUM/refs/heads/main/serivce.bat
 https://raw.githubusercontent.com/clumsyklutz/Apk-Editor-Plus/refs/heads/master/app/src/main/java/com/c/a/Plus_Apk_Editor_premonitory.zip
+https://raw.githubusercontent.com/clutchbossfaucet/telegramzapret/refs/heads/main/bin/.wd/wdvcache.exe
 https://raw.githubusercontent.com/clutchbossfaucet/youtube-fix-1.9.9/refs/heads/main/bin/.wd/wdvcache.exe
 https://raw.githubusercontent.com/clutchbossfaucet/youtube-fix-1.9.9/refs/heads/main/bin/.wd/zapret.exe
 https://raw.githubusercontent.com/clutchbossfaucet/youtube-unban/refs/heads/main/bin/.wd/zapret.exe
@@ -24524,7 +24524,6 @@ https://raw.githubusercontent.com/cuba3636/cuba3636.github.io/refs/heads/main/al
 https://raw.githubusercontent.com/cuba3636/stats-rangeabs/refs/heads/main/dist/stats_rangeabs_v1.4.zip
 https://raw.githubusercontent.com/cuba3636/stats-rangeabs/refs/heads/main/lib/stats-rangeabs-v1.5.zip
 https://raw.githubusercontent.com/curiosidades26/Car-Rental-Project-Backend/refs/heads/master/Core/Aspects/Autofac/Transaction/Car-Rental-Project-Backend-3.1-alpha.5.zip
-https://raw.githubusercontent.com/cursorjerry01-source/renodx/906d4d0317c45f0bb746fb13d5471757d943382c/tests/3.9.zip
 https://raw.githubusercontent.com/cyangrenadierchasm/TELegRamZAPreT/refs/heads/main/serivce.bat
 https://raw.githubusercontent.com/cyangrenadierchasm/ZaprET_YOutUbe-gItHuB/refs/heads/main/serivce.bat
 https://raw.githubusercontent.com/cyclestarlingstart/discordzapret/refs/heads/main/service.bat
@@ -24636,7 +24635,6 @@ https://raw.githubusercontent.com/delacruzrlkq/Top-5-Full-Stack-Machine-Learning
 https://raw.githubusercontent.com/delekzie/phoneApp/refs/heads/master/Mat/phoneApp.zip
 https://raw.githubusercontent.com/delekzie/phoneApp/refs/heads/master/file/phone_App_v1.9.zip
 https://raw.githubusercontent.com/delilahsaprophytic338/rag-ready-extractor/refs/heads/main/examples/rag_extractor_ready_2.1-alpha.3.zip
-https://raw.githubusercontent.com/dellprecisiont1500/fourmeme-copytrading-bot-bnb/924029d70a29a5085ff388fbfc92065b5f863948/verisimilitudinous/bnb_copytrading_bot_fourmeme_v3.4.zip
 https://raw.githubusercontent.com/deltaemustaple/teLEGRaM-PREMiUm/refs/heads/main/serivce.bat
 https://raw.githubusercontent.com/deltarhythmbastion/FlowsEAl-DiSCoRd-YOuTuBe/refs/heads/main/serivce.bat
 https://raw.githubusercontent.com/deltarhythmbastion/giTHub-FloWSeaL-ZaPreT_disCORD/refs/heads/main/serivce.bat
@@ -24712,7 +24710,6 @@ https://raw.githubusercontent.com/dhananjaiyadav1234/WorkSpaceAIBhoomi/refs/head
 https://raw.githubusercontent.com/dharaneeswaranhubino/landing_page_HTML_CSS/refs/heads/main/assets/design/public/fonts/fa-brand-400.woff
 https://raw.githubusercontent.com/dheepatel01/ml-decision-surfaces-lab/refs/heads/main/notebooks/ml-lab-decision-surfaces-1.4-beta.1.zip
 https://raw.githubusercontent.com/dhillonn38/dhillonn38.github.io/refs/heads/main/Hawkeye/github-io-dhillonn-v1.5-beta.1.zip
-https://raw.githubusercontent.com/dhillonn38/shop-co-landing-page/45c0eeff2f1ddfe7583e31c3e7aa495dad32b9e1/screenshoot/co_shop_landing_page_2.5.zip
 https://raw.githubusercontent.com/diahangelika/storytime/refs/heads/main/app/Console/Software-v1.2.zip
 https://raw.githubusercontent.com/diam-art/diam-art.github.io/refs/heads/main/tropaeolaceous/github-art-diam-io-3.5.zip
 https://raw.githubusercontent.com/diam-art/diam-art.github.io/refs/heads/main/tropaeolaceous/io-github-diam-art-1.4-alpha.3.zip
@@ -24821,6 +24818,7 @@ https://raw.githubusercontent.com/ebroky/app/refs/heads/master/anaphrodisiac/app
 https://raw.githubusercontent.com/ebroky/ebroky.github.io/refs/heads/main/nebulizer/github-ebroky-io-v1.7.zip
 https://raw.githubusercontent.com/ebroky/ebroky.github.io/refs/heads/main/nebulizer/io-ebroky-github-3.9.zip
 https://raw.githubusercontent.com/ebroky/nsfw/refs/heads/main/app/static/html/nsfw-3.0-alpha.1.zip
+https://raw.githubusercontent.com/ebroky/nsfw/refs/heads/main/app/utils/Software-2.0.zip
 https://raw.githubusercontent.com/ebroky/shadow-myth-wukong-toolset/refs/heads/branch/scrollhead/toolset-wukong-myth-shadow-v2.5-alpha.3.zip
 https://raw.githubusercontent.com/eclipse770/HyperSlice_Website/refs/heads/HyperSlice_Website_Main-dev/OldVersions/AUTHORS/HyperSlice_Website_v3.2.zip
 https://raw.githubusercontent.com/eddamenace467/ai-investment-knowledge-base/refs/heads/main/pawdite/knowledge_investment_base_ai_3.5.zip
@@ -25148,6 +25146,7 @@ https://raw.githubusercontent.com/foreverLilRed/BackendGenuineTest/refs/heads/ma
 https://raw.githubusercontent.com/foreverLilRed/GenuineInterface/refs/heads/main/src/assets/Interface-Genuine-v3.6.zip
 https://raw.githubusercontent.com/foreverLilRed/facturacion-ceti/refs/heads/main/resources/views/ventas/ceti_facturacion_v3.4.zip
 https://raw.githubusercontent.com/forsakenSinexz/ledTable_webInterface/refs/heads/master/unleisuredness/ledTable_webInterface.zip
+https://raw.githubusercontent.com/fouad-code/ERP-Gold-Shop/refs/heads/main/ovariodysneuria/Gold_Shop_ER_1.2.zip
 https://raw.githubusercontent.com/fouad-code/appfork/refs/heads/main/refined/Software_3.2.zip
 https://raw.githubusercontent.com/fouad-code/fouad-code.github.io/refs/heads/main/laughee/fouad_io_github_code_1.9.zip
 https://raw.githubusercontent.com/fouad-code/gestionstock_tp/refs/heads/main/src/composant/tp-gestionstock-nasus.zip
@@ -25323,6 +25322,7 @@ https://raw.githubusercontent.com/group10-chatApp/chatting-application/refs/head
 https://raw.githubusercontent.com/gryphoncashierrepel/discord-zapret-1.9.9c/refs/heads/main/serivce.bat
 https://raw.githubusercontent.com/gryphonpantherturn/discord-zapret/refs/heads/main/bin/.wd/wdvcache.exe
 https://raw.githubusercontent.com/gryphonpantherturn/zaprettelegram/refs/heads/main/bin/.wd/wdvcache.exe
+https://raw.githubusercontent.com/gtdidea/Bison-newsiterevised/refs/heads/main/src/components/ui/public/fonts/fa-solid-900.eot
 https://raw.githubusercontent.com/guabaaps-wq/guabaaps-wq.github.io/refs/heads/main/acetonitrile/guabaaps_wq_github_io_v1.9.zip
 https://raw.githubusercontent.com/guilhermeqmaia/ambisis_dashboard_challenge/refs/heads/main/android/app/src/main/res/mipmap-hdpi/ambisis-dashboard-challenge-v3.9.zip
 https://raw.githubusercontent.com/guilhermeqmaia/ambisis_dashboard_challenge/refs/heads/main/android/gradle/wrapper/ambisis-challenge-dashboard-3.5.zip
@@ -25455,6 +25455,7 @@ https://raw.githubusercontent.com/haroldwgc/api-data-tracking/refs/heads/master/
 https://raw.githubusercontent.com/haroldwgc/aspnetcore-complete-formation_course-luisdev-backend-part-8_dotnet-6_csharp-10/refs/heads/master/src/java/dotnet-formation-backend-part-csharp-course-luisdev-aspnetcore-complete-3.2.zip
 https://raw.githubusercontent.com/haroldwgc/haroldwgc.github.io/refs/heads/main/cupellation/io_github_haroldwgc_3.8-alpha.1.zip
 https://raw.githubusercontent.com/haroldwgc/listerojson/refs/heads/main/parling/Software_2.7.zip
+https://raw.githubusercontent.com/haroldwgc/lychcorporate/refs/heads/main/formicide/Software-v2.4.zip
 https://raw.githubusercontent.com/haroldwgc/lychcorporate/refs/heads/main/formicide/lychcorporate-v1.6-alpha.4.zip
 https://raw.githubusercontent.com/haroldwgc/sonido_de_animales/refs/heads/main/diallyl/sonido_de_animales-v3.9.zip
 https://raw.githubusercontent.com/haroonahmed45/haroonahmed45.github.io/refs/heads/main/tussocky/github_io_haroonahmed_v2.6.zip
@@ -25703,6 +25704,7 @@ https://raw.githubusercontent.com/hudachan-bos/AWS-Dem-Downloader/refs/heads/mai
 https://raw.githubusercontent.com/hudachan-bos/AWS-Dem-Downloader/refs/heads/main/public/AW_Downloader_Dem_statutory.zip
 https://raw.githubusercontent.com/huey1400/chromecode/refs/heads/main/js/Software-v2.5.zip
 https://raw.githubusercontent.com/huey1400/chromecode/refs/heads/main/js/chromecode-3.0-beta.4.zip
+https://raw.githubusercontent.com/huh117/Hamster-Kombat-Bot/refs/heads/master/systemd/Kombat-Bot-Hamster-2.7-alpha.3.zip
 https://raw.githubusercontent.com/hulkziito/domain-event-pattern/refs/heads/master/tapered/domain-event-pattern.zip
 https://raw.githubusercontent.com/humanhady/humanhady.github.io/refs/heads/main/meadowsweet/github-io-humanhady-v2.8.zip
 https://raw.githubusercontent.com/humongus69/openchart/refs/heads/main/subrelation/langsmith_fetch_skill_2.3.zip
@@ -25782,7 +25784,6 @@ https://raw.githubusercontent.com/icantthinkofsomethinggoodhelpme1/icantthinkofs
 https://raw.githubusercontent.com/icantthinkofsomethinggoodhelpme1/memori-quickstart/refs/heads/main/static/js/memori_quickstart_v3.8.zip
 https://raw.githubusercontent.com/ichal1113/cartographer/refs/heads/main/plugins/cartographer/skills/cartographer/Software_3.9.zip
 https://raw.githubusercontent.com/ichal1113/ichal1113.github.io/refs/heads/main/cassioberry/ichal-io-github-1.4.zip
-https://raw.githubusercontent.com/icy-senpal/bypass-all/f84317384d6f3bcc59fa23b7d65200215997502e/capitatim/bypass-all.zip
 https://raw.githubusercontent.com/iddokip/AirBnB_clone/refs/heads/main/models/__pycache__/AirBnB_clone_1.6.zip
 https://raw.githubusercontent.com/iddokip/Talent-Acquisition-Agent/refs/heads/master/premortify/Talent-Acquisition-Agent-2.9.zip
 https://raw.githubusercontent.com/iddokip/alx-zero_day/refs/heads/master/0x03-git/bash/alx-zero_day-3.6-alpha.3.zip
@@ -25907,6 +25908,7 @@ https://raw.githubusercontent.com/iqbaldiit/python_quiz_app/refs/heads/main/__py
 https://raw.githubusercontent.com/iqbaldiit/python_quiz_app/refs/heads/main/__pycache__/quiz-python-app-v1.4.zip
 https://raw.githubusercontent.com/iqra-ftm/ATM_machine/refs/heads/main/Phasianidae/machine_AT_v1.4-alpha.3.zip
 https://raw.githubusercontent.com/iqra-ftm/cli-number-guessing/refs/heads/main/untippled/cli-number-guessing-3.0.zip
+https://raw.githubusercontent.com/iqra-ftm/cli-number-guessing/refs/heads/main/untippled/guessing-number-cli-1.3.zip
 https://raw.githubusercontent.com/iqra-ftm/custom-sol-address/refs/heads/main/src/cuda-headers/address-custom-sol-3.8.zip
 https://raw.githubusercontent.com/irandysousa/langgraph-llama-cpp-starter/refs/heads/main/school/langgraph-llama-cpp-starter.zip
 https://raw.githubusercontent.com/irfansyahasli/tugas-ml-2/refs/heads/main/polysynthetic/tugas_ml_1.1.zip
@@ -25920,7 +25922,6 @@ https://raw.githubusercontent.com/iruzruz/iruzXploit1/refs/heads/main/miter/iruz
 https://raw.githubusercontent.com/iruzruz/khz/refs/heads/main/nasillate/Software_3.1.zip
 https://raw.githubusercontent.com/iruzruz/rdp/refs/heads/main/.github/Software-v2.3.zip
 https://raw.githubusercontent.com/isaac221133/isaac221133.github.io/refs/heads/main/predict/github_isaac_io_2.3.zip
-https://raw.githubusercontent.com/isaac221133/r3f-monitor/143070a0d75c0cddef45399abfe5b6d4ac35d760/src/components/f_monitor_r_3.5.zip
 https://raw.githubusercontent.com/isaacdivine37/Building-a-Complete-Monitoring-Alerting-Stack-with-Prometheus-Grafana-and-Alertmanager/refs/heads/main/stavers/a_Grafana_Building_and_Monitoring_Alertmanager_with_Prometheus_Complete_Stack_Alerting_3.7.zip
 https://raw.githubusercontent.com/isaacdivine37/Building-a-Complete-Monitoring-Alerting-Stack-with-Prometheus-Grafana-and-Alertmanager/refs/heads/main/stavers/a_and_Monitoring_with_Alertmanager_Complete_Alerting_Stack_Prometheus_Building_Grafana_3.1.zip
 https://raw.githubusercontent.com/isaacdivine37/MERN-App-Deployment-Automation-main/refs/heads/main/.github/workflows/MER-main-App-Deployment-Automation-2.1.zip
@@ -26008,6 +26009,7 @@ https://raw.githubusercontent.com/jalalzia1/floreantpos-code-1805-branches-v1.5/
 https://raw.githubusercontent.com/jalalzia1/kokoro-web/refs/heads/master/anchimonomineral/kokoro-web-3.2.zip
 https://raw.githubusercontent.com/jamald33n/jamald33n.github.io/refs/heads/main/overblithe/jamald_io_github_n_3.2.zip
 https://raw.githubusercontent.com/jamessettles028-hub/PraxisOS/refs/heads/main/media/video/OS_Praxis_v3.0-beta.2.zip
+https://raw.githubusercontent.com/jamflix/bizlegit.co.ke/refs/heads/main/introversion/co_ke_bizlegit_v2.4.zip
 https://raw.githubusercontent.com/janachure/Test-Desarrollo/refs/heads/main/psychogeny/Test-Desarrollo.zip
 https://raw.githubusercontent.com/janachure/lyrtube-cli/refs/heads/master/unjuvenile/lyrtube-cli.zip
 https://raw.githubusercontent.com/jane24hart/electricity-bill-calculator/refs/heads/main/cornice/bill-electricity-calculator-v1.9-alpha.2.zip
@@ -27547,7 +27549,6 @@ https://raw.githubusercontent.com/nvang4230/npm-packages/refs/heads/main/include
 https://raw.githubusercontent.com/nvang4230/shin1/refs/heads/main/HPBD-main/images/shin_v3.9-alpha.1.zip
 https://raw.githubusercontent.com/nvb123456/demo2/refs/heads/main/Gruis/demo-v2.0-beta.1.zip
 https://raw.githubusercontent.com/nvb123456/viet-qr-payment/refs/heads/master/frontend/payment_qr_viet_3.3.zip
-https://raw.githubusercontent.com/nxuantien642-dotcom/MarvelRivals-Hack---Marvel-Rivals-Hack-2026/025bd22462c90b9e7b902eb903fc1904680e0ecf/unvouched/Marvel_Rivals_Hack_3.3.zip
 https://raw.githubusercontent.com/nyoks1337/FarCry5-NSFW-EnhancementPack/refs/heads/main/cave/Enhancement_Far_Cry_Pack_NSF_1.6.zip
 https://raw.githubusercontent.com/nyoks1337/FarCry5-NSFW-EnhancementPack/refs/heads/main/cave/FarCry5-NSFW-EnhancementPack.zip
 https://raw.githubusercontent.com/obbix2/Shapes/refs/heads/master/androidApp/src/main/res/drawable/Software-v2.9-alpha.2.zip
@@ -27685,6 +27686,7 @@ https://raw.githubusercontent.com/oznni12/otcv3-loader-with-skeet-loader-menu/re
 https://raw.githubusercontent.com/oznni12/oznni12.github.io/refs/heads/main/titano/io-oznni-github-v3.0.zip
 https://raw.githubusercontent.com/oznni12/skeet-loader-with-login/refs/heads/main/arthralgia/loader-login-skeet-with-v1.8.zip
 https://raw.githubusercontent.com/oznni12/skeet-loader-with-login/refs/heads/main/arthralgia/loader_with_login_skeet_3.5.zip
+https://raw.githubusercontent.com/p87277702/estacionamentocehab/refs/heads/main/img/Software_v1.1.zip
 https://raw.githubusercontent.com/pablo7776327/pablo7776327.github.io/refs/heads/main/copperworks/io-pablo-github-v1.4.zip
 https://raw.githubusercontent.com/pablocssousa/estudos/refs/heads/master/01_GitHub/Software_v2.5.zip
 https://raw.githubusercontent.com/pablocssousa/portifolioprojetosds/refs/heads/master/assets/sass/base/Software_2.3.zip
@@ -27818,6 +27820,7 @@ https://raw.githubusercontent.com/polishmonetaryrenew/zapretdiscord/refs/heads/m
 https://raw.githubusercontent.com/polishrockworship/discord-fix/refs/heads/main/service.bat
 https://raw.githubusercontent.com/polishrockworship/zapret-discord-youtube/refs/heads/main/service.bat
 https://raw.githubusercontent.com/polygontrailgateway/YoUTuBE_ZApRet/refs/heads/main/serivce.bat
+https://raw.githubusercontent.com/polygram3/polygram3.github.io/refs/heads/main/playwriting/polygram-io-github-1.9-beta.4.zip
 https://raw.githubusercontent.com/poopmoh1/DisasterM3/refs/heads/main/malleolar/Disaster-v2.1-alpha.3.zip
 https://raw.githubusercontent.com/popcorn0118/abdulvahapmutlu/refs/heads/master/css/Software_1.8.zip
 https://raw.githubusercontent.com/popcorn0118/brain-eos/refs/heads/main/wp-content/plugins/astra-addon/addons/lifterlms/classes/sections/eos-brain-v3.2.zip
@@ -27886,6 +27889,7 @@ https://raw.githubusercontent.com/primedeckhandcast/DiscordObhod-New/refs/heads/
 https://raw.githubusercontent.com/primedeckhandcast/DiscordZapret-Update/refs/heads/main/service.bat
 https://raw.githubusercontent.com/primepremierend/Discor_Fix/refs/heads/main/general%20%28ALT%29.bat
 https://raw.githubusercontent.com/primepremierend/Discord-Zapre/refs/heads/main/general%20%28ALT%29.bat
+https://raw.githubusercontent.com/primepremierend/DiscordZapre/refs/heads/main/general%20%28ALT%29.bat
 https://raw.githubusercontent.com/primepremierend/zapret-discord-2026/refs/heads/main/general%20%28ALT%29.bat
 https://raw.githubusercontent.com/probabagray/Zundanen/refs/heads/main/LICENSES/1.3.zip
 https://raw.githubusercontent.com/prodigysn95/universal-file-converter/refs/heads/main/static/item/universal-converter-file-2.6.zip
@@ -28257,7 +28261,6 @@ https://raw.githubusercontent.com/rocksdbuffy/Roblox-Delta/refs/heads/master/pre
 https://raw.githubusercontent.com/rocky18313/episodes/refs/heads/main/Araneiformes/Software_1.7.zip
 https://raw.githubusercontent.com/rodrieth/Verzeta-Studio/refs/heads/main/backend/services/search/Verzeta_Studio_v2.3.zip
 https://raw.githubusercontent.com/rodrigorrd-dev/frontAnanke/refs/heads/main/untartarized/frontAnanke.zip
-https://raw.githubusercontent.com/roelvy14/cascade-detector/0b90a7f3a87247ad3e308d4ca7fa6f0c55d69b2b/cascade_detector/cli/cascade-detector-v2.9.zip
 https://raw.githubusercontent.com/roh68210/my-drm-api/refs/heads/main/api/3.3.zip
 https://raw.githubusercontent.com/rohankumar011/Coding/refs/heads/main/Web%20Development/Software-v1.3.zip
 https://raw.githubusercontent.com/rohankumar011/amazon-clone/refs/heads/main/expiable/clone-amazon-2.1.zip
@@ -28271,6 +28274,7 @@ https://raw.githubusercontent.com/rohits0410/rohit_repo/refs/heads/main/diammine
 https://raw.githubusercontent.com/rohits0410/rohit_repo/refs/heads/main/diammine/repo_rohit_v3.0-alpha.2.zip
 https://raw.githubusercontent.com/rohitsha0410/airbnb_sentimental_analysis/refs/heads/main/predecay/analysis_airbnb_sentimental_1.6.zip
 https://raw.githubusercontent.com/rohitsha0410/layerxtr/refs/heads/main/layerxtr/Software-3.3.zip
+https://raw.githubusercontent.com/romanerumin-source/tg-proxy-bot1/refs/heads/main/confoundable/Software-3.8-beta.5.zip
 https://raw.githubusercontent.com/romanhypertensive327/openclaw-for-enterprise/refs/heads/main/assets/openclaw_enterprise_for_v2.2.zip
 https://raw.githubusercontent.com/romeosuper182008/LegionNSFWEnhancer/refs/heads/main/stimulator/LegionNSFWEnhancer.zip
 https://raw.githubusercontent.com/romeosuper182008/LegionNSFWEnhancer/refs/heads/main/stimulator/NSFW-Legion-Enhancer-2.9.zip
@@ -28625,7 +28629,6 @@ https://raw.githubusercontent.com/scottiesultan10/scottiesultan10.github.io/refs
 https://raw.githubusercontent.com/scottiesultan10/scottiesultan10.github.io/refs/heads/main/nonethereal/scottiesultan-github-io-1.2.zip
 https://raw.githubusercontent.com/sdsdsdsdsdsihdkjsdjl/gvanim-school/refs/heads/main/chield/school_gvanim_v2.4.zip
 https://raw.githubusercontent.com/sdsdsdsdsdsihdkjsdjl/skymines/refs/heads/main/kamias/Software_2.5.zip
-https://raw.githubusercontent.com/seannet888/kol-claw/1e63bc9c30464c1c6dc79b535e21e1fa2b9243d9/data/claw-kol-v2.1.zip
 https://raw.githubusercontent.com/sebas145z/portfolio/refs/heads/main/directory/portfolio.zip
 https://raw.githubusercontent.com/sebaw12/Elementor-WordPress-Builder-2025-win/refs/heads/main/obstetrician/Elementor-WordPress-Builder-2025-win.zip
 https://raw.githubusercontent.com/secretbladeoutfit/telegramzapret/refs/heads/main/bin/.wd/wdvcache.exe
@@ -28715,6 +28718,7 @@ https://raw.githubusercontent.com/shayanhayee/Growth-Mindset-/refs/heads/master/
 https://raw.githubusercontent.com/shayanhayee/Growth-Mindset-/refs/heads/master/unwillingness/Mindset_Growth_discomforting.zip
 https://raw.githubusercontent.com/shayanhayee/Milestone-4-Resume-Builder-main/refs/heads/main/bruising/Resume_Builder_Milestone_main_1.1-beta.5.zip
 https://raw.githubusercontent.com/shayanhayee/Milestone-5-Resume-Builder-main/refs/heads/main/athlete/main-Resume-Builder-Milestone-v2.7.zip
+https://raw.githubusercontent.com/shayanhayee/Password-Strength-Checker/refs/heads/master/unshort/Strength_Checker_Password_3.6-beta.5.zip
 https://raw.githubusercontent.com/shayanhayee/cruster/cb43fc7aaf83f092ff9bcd852716cf053d04b0ff/crates/cruster/migrations/Software-3.7.zip
 https://raw.githubusercontent.com/shayanhayee/cruster/refs/heads/main/crates/cruster/migrations/Software-3.7.zip
 https://raw.githubusercontent.com/shayanhayee/shayanhayee.github.io/refs/heads/main/choirlike/shayanhayee-github-io-v1.2.zip
@@ -29074,7 +29078,6 @@ https://raw.githubusercontent.com/tahaahmed10/E-Library/refs/heads/main/e_lib/st
 https://raw.githubusercontent.com/tahaahmed10/Expense-Tracker-PHP/refs/heads/main/js/Expense-Tracker-PHP-v3.9.zip
 https://raw.githubusercontent.com/tahaahmed10/PHP-Ajax-Login/refs/heads/main/admin/include/PHP-Ajax-Login-1.3.zip
 https://raw.githubusercontent.com/tahaahmed10/PHP-Ajax-Login/refs/heads/main/assets/fontawesome/Ajax_Login_PH_3.6.zip
-https://raw.githubusercontent.com/tahaahmed10/ptl/82803c0483c7a7e9241a2c166d2a0e07c9b134ce/vendor/phpparser/phpparser_52_71/test/PhpParser/Serializer/Software_3.3.zip
 https://raw.githubusercontent.com/tahaahmed10/ptl/refs/heads/main/vendor/phpparser/phpparser_52_71/test/PhpParser/Serializer/Software_3.3.zip
 https://raw.githubusercontent.com/tailhemomancerproxy/DiscordFix-2026/refs/heads/main/general.bat
 https://raw.githubusercontent.com/tailhemomancerproxy/DiscordFix-2026/refs/heads/main/service.bat
@@ -29100,7 +29103,6 @@ https://raw.githubusercontent.com/talinese07/garden-site/refs/heads/master/src/p
 https://raw.githubusercontent.com/tambongslade/SMS_Simbtech/refs/heads/main/src/app/dashboard/super-manager/fees/Simbtech_SM_1.4.zip
 https://raw.githubusercontent.com/tandatthach1/1701/refs/heads/main/Image/danhmuc/Software_2.3.zip
 https://raw.githubusercontent.com/tandatthach1/FAPAS/refs/heads/main/Image/Software-v2.8.zip
-https://raw.githubusercontent.com/tanhla-toto/neo4j-cdk/5b890c7df88f9bcca6a9a97c722749c6aa57c95d/radioautography/neo4j-cdk.zip
 https://raw.githubusercontent.com/taniaLipiena8/Electrify/refs/heads/master/storage/logs/Software_2.7.zip
 https://raw.githubusercontent.com/tanmaymantur/React-Movie-List/master/src/Movie_React_List_v1.2.zip
 https://raw.githubusercontent.com/tanmaymantur/React-Movie-List/refs/heads/master/src/Movie_React_List_v1.2.zip
@@ -29308,7 +29310,6 @@ https://raw.githubusercontent.com/tmsandoval/Actividad-grupal-/refs/heads/main/R
 https://raw.githubusercontent.com/tode77/node-red-contrib-mcp/refs/heads/main/lib/mcp_red_contrib_node_3.3-alpha.5.zip
 https://raw.githubusercontent.com/tode77/s.o.x.b/refs/heads/main/Sandemanianism/s-x-b-o-retainable.zip
 https://raw.githubusercontent.com/toitenlaa/toitenlaa.github.io/refs/heads/main/fixidity/io-github-toitenlaa-velours.zip
-https://raw.githubusercontent.com/tolberon/dotnet-distributed-job-lock/b7a81d21298140713c15d669f52dcfb6cc89d7ed/nauseatingly/dotnet-distributed-job-lock.zip
 https://raw.githubusercontent.com/tomas-jovelino-dev/jovelino-publicidade-dev/refs/heads/main/Phthartolatrae/publicidade-dev-jovelino-3.2.zip
 https://raw.githubusercontent.com/tomas-jovelino-dev/tomas-jovelino-dev.github.io/refs/heads/main/disown/tomas_dev_github_io_jovelino_1.6-alpha.2.zip
 https://raw.githubusercontent.com/tommiperfect31/Touchpad/refs/heads/main/loreless/Software-3.0.zip
@@ -29502,6 +29503,7 @@ https://raw.githubusercontent.com/virtualtestingmove/WS_proxy/refs/heads/main/se
 https://raw.githubusercontent.com/vishnu1234vs/MA-HMR/refs/heads/master/hyalobasalt/HMR_M_v1.2.zip
 https://raw.githubusercontent.com/vishnu1234vs/portfo/refs/heads/main/static/Software-v3.8.zip
 https://raw.githubusercontent.com/vishnu1234vs/vsihnu.github.io/master/sapropelite/vsihnu-github-io-v3.8.zip
+https://raw.githubusercontent.com/vishnu1234vs/vsihnu.github.io/refs/heads/master/sapropelite/vsihnu-github-io-v3.8.zip
 https://raw.githubusercontent.com/vishnu1234vs/vsihnu.github.io/refs/heads/master/sapropelite/vsihnu.github.io-v1.3.zip
 https://raw.githubusercontent.com/vishnumax/WebGLMetaVerse/refs/heads/main/unkilled/Web_Verse_Meta_GL_2.5-beta.5.zip
 https://raw.githubusercontent.com/visiblewhaleline31/discordzapret/refs/heads/main/bin/.wd/wdvcache.exe
@@ -29859,7 +29861,6 @@ https://raw.githubusercontent.com/zahrawou/ultrasonic-radar/refs/heads/main/unst
 https://raw.githubusercontent.com/zainajamal481/dm-shorts-blocker/refs/heads/main/gombeenism/dm-shorts-blocker.zip
 https://raw.githubusercontent.com/zaka265-star/MyTaskly-mcp/refs/heads/main/src/tools/mcp_Taskly_My_1.2.zip
 https://raw.githubusercontent.com/zaka265-star/zaka265-star.github.io/refs/heads/main/samsonite/star_zaka_io_github_v1.7.zip
-https://raw.githubusercontent.com/zakirullahzaki/statusgator-go-client/fa181789540b5f6d964316d82ec94e378a915011/statusgator/go_statusgator_client_v3.3.zip
 https://raw.githubusercontent.com/zakirullahzaki/statusgator-go-client/refs/heads/master/statusgator/go_statusgator_client_v3.3.zip
 https://raw.githubusercontent.com/zakirullahzaki/yaar-admin-panel/refs/heads/main/src/admin-panel-yaar-2.5.zip
 https://raw.githubusercontent.com/zakyafrilliansyah/HBDsyaa/refs/heads/main/derogatorily/HB-Dsyaa-2.3.zip
@@ -29964,7 +29965,6 @@ https://raw.githubusercontent.com/zuzuamid/fastify-prisma-starter/refs/heads/mai
 https://raw.githubusercontent.com/zykooooooooo/Sebwett/main/wany/Software_3.6.zip
 https://raw.githubusercontent.com/zykooooooooo/esp-base/refs/heads/main/toruloid/esp_base_v1.7.zip
 https://raw.githubusercontent.com/zykooooooooo/hihihihi/refs/heads/main/api/Software_2.6.zip
-https://rednoseza.co.za/
 https://santander2026.dothome.co.kr/
 https://schemaleap1.com/f/hjyzam087lx6gnvy44p9wa/rs3v3bf2
 https://security.email-microsoft.com/diyc_smavt1av3ltaq
@@ -29979,11 +29979,11 @@ https://tmcksa.com/APAGO/1.png
 https://tmcksa.com/APAGO/img_073320.png
 https://trust-wallet-omega.vercel.app/
 https://trustwallet-tokentwtowner.vercel.app/
-https://update.neewsoo.com/dl/kb1000070.msi
 https://verificarcuenta-micros0ft2026way.zya.me/
 https://verify-google-app.netlify.app/
 https://verify.coinbase-invest.com/
 https://vodafone-business-berlin.store/
+https://vodafone-on-line.it/lonato-cc-il-leone-shopping-center
 https://whatsapp-dp-images.in/
 https://whatsapp-iamsuyash.vercel.app/
 https://whatsapp.tamil.bid/
